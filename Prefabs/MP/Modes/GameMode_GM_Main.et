@@ -1,0 +1,179 @@
+SCR_GameModeEditor : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor/GameMode_Editor_Full.et" {
+ ID "56B2B479C6B96951"
+ coords 4874.719 28.594 11797.309
+ {
+  SCR_FactionManager "62E7481990B0F86A" {
+   ID "56E685E92F1B7E7A"
+   Factions {
+    SCR_Faction "{62E73A68C0A75E19}" {
+     FactionKey "IAC"
+     FactionColor 0.251 0 0.502 1
+     UIInfo SCR_FactionUIInfo "{62E73A6828355937}" {
+      Name "Intelligence Analyst Corps"
+      Icon "{1F42F5BCB1A6D777}Assets/Images/USCMFLogo.edds"
+      m_sNameUpper "INTELLIGENCE ANALYST CORPS"
+     }
+     m_OutlineFactionColor 0.251 0 0.502 0
+     m_NotificationFactionColor 0.251 0 0.502 0
+     m_NotificationTextFactionColor 0.251 0 0.502 0
+     m_bShowInWelcomeScreenIfNonPlayable 0
+     m_sFactionFlag "{1F42F5BCB1A6D777}Assets/Images/USCMFLogo.edds"
+     m_FactionLabel FACTION_ENFORCERS
+     m_aFriendlyFactionsIds {
+      "ENFORCERS"
+     }
+     m_CallsignInfo SCR_FactionCallsignInfo "{62E73A6BAF0A936A}" {
+      m_bIsAssignedRandomly 0
+      m_aCompanyNames {
+       SCR_CallsignInfo "{62E73A6BA3CD4D24}" {
+        m_sCallsign "Analyst"
+       }
+      }
+      m_aPlatoonNames {
+       SCR_CallsignInfo "{62E73A6B806731D7}" {
+       }
+      }
+      m_aSquadNames {
+       SCR_CallsignInfo "{62E73A6B89AE62E6}" {
+        m_sCallsign "1"
+       }
+       SCR_CallsignInfo "{62E73A6B8999A766}" {
+        m_sCallsign "2"
+       }
+       SCR_CallsignInfo "{62E73A6B89740A4D}" {
+        m_sCallsign "3"
+       }
+       SCR_CallsignInfo "{62E73A6B892F4130}" {
+        m_sCallsign "4"
+       }
+      }
+      m_sCallsignGroupFormat "%1 %3"
+      m_sCallsignCharacterFormat "%1 %3: %4"
+      m_sCallsignCharacterWithRoleFormat "%1 %3: %4"
+     }
+     m_sFactionRadioEncryptionKey "PewPew"
+     m_aEntityCatalogs {
+      SCR_EntityCatalogMultiList "{62E73A6B1BDE66BE}" {
+       m_eEntityCatalogType VEHICLE
+       m_aMultiLists {
+        SCR_EntityCatalogMultiListEntry "{62E73A6B42101503}" {
+         m_sIdentifier "SHIPS"
+         m_aEntities {
+          SCR_EntityCatalogEntry "{62E73A6ABFB96E73}" {
+           m_sEntityPrefab "{8F89DBB5C174D20D}Prefabs/Vehicles/Ships/Dropship/Dropship_Armed.et"
+          }
+          SCR_EntityCatalogEntry "{62E73A6AB8A50AF4}" {
+           m_sEntityPrefab "{E6E0159618443E80}Prefabs/Vehicles/Ships/Dropship/Dropship_Base.et"
+          }
+         }
+        }
+       }
+      }
+      SCR_EntityCatalogMultiList "{62E73A6B0BEADDDF}" {
+       m_eEntityCatalogType CHARACTER
+       m_aEntityEntryList {
+        SCR_EntityCatalogEntry "{62E73A6B5E2900BA}" {
+         m_sEntityPrefab "{CF66108D53E6DD71}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Hologram.et"
+        }
+       }
+      }
+      SCR_EntityCatalogMultiList "{62E73A6B0B346DEE}" {
+       m_eEntityCatalogType ITEM
+       m_aMultiLists {
+        SCR_EntityCatalogMultiListEntry "{62E73A6A9DC28245}" {
+         m_sIdentifier "CLOTHING"
+         m_aEntities {
+          SCR_EntityCatalogEntry "{62E73A6A981A2451}" {
+           m_sEntityPrefab "{6D838A90D002CA4D}Prefabs/Characters/Footwear/Enforcer_Boots_Hologram.et"
+          }
+          SCR_EntityCatalogEntry "{62E73A6A992C9696}" {
+           m_sEntityPrefab "{45F0B2F5F1612FD2}Prefabs/Characters/Headgear/Enforcer_Helmet_Hologram.et"
+          }
+          SCR_EntityCatalogEntry "{62E73A6A9A433AE6}" {
+           m_sEntityPrefab "{A98AEF0BFAA8C81B}Prefabs/Characters/Uniforms/Shirt_Enforcer/Shirt_Enforcer_Hologram.et"
+          }
+          SCR_EntityCatalogEntry "{62E73A6A9B73959B}" {
+           m_sEntityPrefab "{B26E6481E4C3AF3E}Prefabs/Characters/Vests/Vest_Enforcer/Vest_Enforcer_Hologram.et"
+          }
+          SCR_EntityCatalogEntry "{62E73A6A948B1BE8}" {
+           m_sEntityPrefab "{AC93C22DE39974AB}Prefabs/Characters/Uniforms/Pants_Enforcer/Pants_Enforcer_Hologram.et"
+          }
+          SCR_EntityCatalogEntry "{62E73A6AFBB68EAE}" {
+           m_sEntityPrefab "{A1CD91B8EE2F58C8}Prefabs/Characters/Basebody/CharacterBasebody_Hologram.et"
+          }
+         }
+        }
+        SCR_EntityCatalogMultiListEntry "{62E73A6A394DCF56}" {
+         m_sIdentifier "WEAPONS"
+         m_aEntities {
+          SCR_EntityCatalogEntry "{62E73A6A31E6023B}" {
+           m_sEntityPrefab "{87D09F47156059D2}Prefabs/Weapons/Rifles/VA-4S.et"
+          }
+          SCR_EntityCatalogEntry "{62E73A6A33BCE6CF}" {
+           m_sEntityPrefab "{030B4B99FCCBDD6F}Prefabs/Weapons/Rifles/VA-4L.et"
+          }
+          SCR_EntityCatalogEntry "{62E73A6A18E494FD}" {
+           m_sEntityPrefab "{6FCE285FB8495EDB}Prefabs/Weapons/Rifles/SVD/Rifle_VA-50_Blue.et"
+          }
+          SCR_EntityCatalogEntry "{62E73A6A2DABE5BC}" {
+           m_sEntityPrefab "{4B71010370010BCD}Prefabs/Weapons/Grenade/FragGrenade_Enforcer.et"
+          }
+          SCR_EntityCatalogEntry "{62E73A6A2D06DF63}" {
+           m_sEntityPrefab "{BA5F89AA77600C7D}Prefabs/Weapons/Magazines/Magazine_VA-50_Blue.et"
+          }
+          SCR_EntityCatalogEntry "{62E73A6A1F92D3B6}" {
+           m_sEntityPrefab "{305DD40B385DA8B1}Prefabs/Weapons/Magazines/Magazine_VA4S_Blue.et"
+          }
+          SCR_EntityCatalogEntry "{62E73A6A185EFDA9}" {
+           m_sEntityPrefab "{DE4597899B285658}Prefabs/Weapons/Magazines/Magazine_VA4L_Blue.et"
+          }
+          SCR_EntityCatalogEntry "{62E73A6A74F9092A}" {
+           m_sEntityPrefab "{9DB69176CEF0EE97}Prefabs/Weapons/Grenades/Smoke_ANM8HC.et"
+          }
+         }
+        }
+       }
+      }
+     }
+     m_sGroupFlagsImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+     m_aFlagNames {
+      "infantry-blufor" "Air-defence-blufor" "Air-defence-misile-blufor" "Antitank-blufor" "Antitank-motorized-blufor" "Artilery-blufor" "Combat-flight-blufor" "Combined-blufor" "Helicopter-blufor" "Medical-blufor" "Mortar-blufor" "Motorized-rifle-blufor" "Recon-blufor" "Transport-flight-blufor" "Undefined-blufor" "air-blufor" "amphibious-blufor" "armored-blufor" "chaparral-blufor" "Air-defence-artillery-blufor" "maintenance-blufor" "motorized-blufor" "signal-blufor" "vulcan-blufor"
+     }
+    }
+   }
+  }
+  PerceptionManager "62E7481990B087D7" : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+   ID "62E7481990D328CE"
+   coords 0.026 0 -0.009
+  }
+  SCR_LoadoutManager {
+   ID "56E685E92F1B7E2A"
+   m_aPlayerLoadouts {
+    SCR_FactionPlayerLoadout "{5596D845DBEEF78C}" {
+     m_sLoadoutName "Rifleman Loadout"
+     m_sLoadoutResource "{A3E8581713C7327A}Prefabs/Characters/Republic Enforcers/Character_Enforcers_BootCamp.et"
+    }
+    SCR_FactionPlayerLoadout "{62E5333418E10C43}" {
+     m_sLoadoutName "Sniper Loadout"
+     m_sLoadoutResource "{BA445BAF934B19F3}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Sniper.et"
+     m_sAffiliatedFaction "ENFORCERS"
+    }
+    SCR_FactionPlayerLoadout "{62E533347825F1B9}" {
+     m_sLoadoutName "Heavy Loadout"
+     m_sLoadoutResource "{277570410C2DB2C7}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Heavy.et"
+     m_sAffiliatedFaction "ENFORCERS"
+    }
+    SCR_FactionPlayerLoadout "{62E73A68FB2D852E}" {
+     m_sLoadoutName "IAC Loadout"
+     m_sLoadoutResource "{CF66108D53E6DD71}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Hologram.et"
+     m_sAffiliatedFaction "IAC"
+    }
+    SCR_FactionPlayerLoadout "{62E73A6C57EBD072}" {
+     m_sLoadoutName "IAC Emergancy Loadout"
+     m_sLoadoutResource "{B6FDA3490427DFF0}Prefabs/Characters/Republic Enforcers/Character_Enforcers_IAC.et"
+     m_sAffiliatedFaction "IAC"
+    }
+   }
+  }
+ }
+}

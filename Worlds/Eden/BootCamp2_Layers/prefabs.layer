@@ -1,0 +1,39 @@
+GenericEntity : "{3EC4CD861D8DA71A}Prefabs/Compositions/Misc/Arsenals.et" {
+ coords 4837.741 28.594 11770.6
+ {
+  GenericEntity {
+   ID "62E723F7EA3DC05B"
+   coords 0.521 0 3.169
+   angleY 90
+  }
+  GenericEntity {
+   ID "62E723F7EA3DC064"
+   coords 0.521 0 -3.923
+   angleY 90
+  }
+  GenericEntity {
+   ID "62E723F7EA3DC060"
+   coords 0.438 0 -0.022
+   angleY 89.732
+  }
+ }
+}
+GenericEntity : "{7CAD8FB0E25EF7B4}Prefabs/Props/HologramTable.et" {
+ coords 4853.305 28.594 11770.073
+ {
+  $grp GenericEntity : "{0364A92598A826F3}Prefabs/Props/Furniture/BenchStadium_01.et" {
+   {
+    coords 6.032 0 -0.158
+    angleY -89.107
+   }
+   {
+    coords 3.871 0 -6.282
+    angleY -46.503
+   }
+   {
+    coords 3.91 0 6.062
+    angleY -135.474
+   }
+  }
+ }
+}
