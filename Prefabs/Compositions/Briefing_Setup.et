@@ -1,0 +1,23 @@
+GenericEntity : "{7CAD8FB0E25EF7B4}Prefabs/Props/HologramTable.et" {
+ ID "519690E29A65E796"
+ coords 4852.797 28.594 11817.979
+ {
+  $grp GenericEntity : "{95544BBA5535F0C1}Prefabs/Props/Civilian/Training/Bleachers.et" {
+   {
+    ID "62E5333652DB5FF9"
+    coords 3.501 -0 5.905
+    angleY 65
+   }
+   {
+    ID "62E5333652DBDB74"
+    coords 4.652 -0 -0.022
+    angleY 90
+   }
+   {
+    ID "62E5333652DBDB76"
+    coords 3.343 -0 -5.663
+    angleY 115
+   }
+  }
+ }
+}

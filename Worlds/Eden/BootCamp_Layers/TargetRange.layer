@@ -1,0 +1,42 @@
+$grp SCR_FiringRangeTarget : "{379D34B0D41DA810}Prefabs/Props/Military/Training/TargetInfantry_01.et" {
+ {
+  coords 4900.124 28.594 11773.268
+  angleY -90.608
+ }
+ {
+  coords 4935.058 28.775 11749.404
+  angleY -90.608
+ }
+ {
+  coords 4900.161 28.594 11769.841
+  angleY -90.608
+ }
+ {
+  coords 4905.107 28.594 11775.577
+  angleY -90.608
+ }
+ {
+  coords 4900.074 28.594 11777.938
+  angleY -90.608
+ }
+ {
+  coords 4900.213 28.594 11764.91
+  angleY -90.608
+ }
+ {
+  coords 4900.037 28.594 11781.491
+  angleY -90.608
+ }
+ {
+  coords 4904.494 28.594 11771.439
+  angleY -90.608
+ }
+ {
+  coords 4904.253 28.594 11767.279
+  angleY -90.608
+ }
+ {
+  coords 4904.998 28.594 11780.31
+  angleY -90.608
+ }
+}

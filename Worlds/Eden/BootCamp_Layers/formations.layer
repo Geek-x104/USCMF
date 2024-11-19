@@ -1,0 +1,26 @@
+GenericEntity : "{45FE6E3AD4D384D3}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V1_Enforcers.et" {
+ coords 4837.94 28.594 11818.013
+}
+$grp GenericEntity : "{D4FCD140C4A32C83}Prefabs/Systems/Arsenal/ArsenalBoxes/ENFORCERS/Enforcers_Arsenal_Box.et" {
+ {
+  components {
+   SCR_ArsenalComponent "{56F2C6D1431AD9AF}" {
+    m_eSupportedArsenalItemTypes 459646
+    m_eEditableAttributeGroups 22
+   }
+  }
+  coords 4838.375 28.537 11814.796
+  angleY 90
+ }
+ {
+  components {
+   SCR_ArsenalComponent "{56F2C6D1431AD9AF}" {
+    m_eSupportedArsenalItemTypes 588928
+    m_eSupportedArsenalItemModes 226
+    m_eEditableAttributeGroups 24
+   }
+  }
+  coords 4838.375 28.537 11813.159
+  angleY 90
+ }
+}

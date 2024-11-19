@@ -1,0 +1,32 @@
+SCR_ChimeraCharacter : "{B6FDA3490427DFF0}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Base.et" {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+    }
+    LoadoutSlotInfo Jacket {
+    }
+    LoadoutSlotInfo Pants {
+    }
+    LoadoutSlotInfo Boots {
+    }
+    LoadoutSlotInfo Back {
+     Prefab "{5A9A372EFF9AABF9}Prefabs/Items/Backpack/Backpack_Enforcer.et"
+    }
+    LoadoutSlotInfo Vest {
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{62E53335B9206E3D}" {
+     TargetStorage "Prefabs/Items/Backpack/Backpack_Enforcer.et"
+     PrefabsToSpawn {
+      "{A81F501D3EF6F38E}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_US_01.et" "{A81F501D3EF6F38E}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_US_01.et" "{A81F501D3EF6F38E}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_US_01.et" "{9DB69176CEF0EE97}Prefabs/Weapons/Grenades/Smoke_ANM8HC.et" "{9DB69176CEF0EE97}Prefabs/Weapons/Grenades/Smoke_ANM8HC.et" "{305DD40B385DA8B1}Prefabs/Weapons/Magazines/Magazine_VA4S_Blue.et" "{305DD40B385DA8B1}Prefabs/Weapons/Magazines/Magazine_VA4S_Blue.et"
+     }
+    }
+   }
+  }
+ }
+}

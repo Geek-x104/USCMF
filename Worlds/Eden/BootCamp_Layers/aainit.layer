@@ -1,0 +1,26 @@
+SCR_AIWorld : "{70CCCF16487C927F}Prefabs/AI/SCR_AIWorld_Eden.et" {
+ coords 4867.498 28.594 11791.168
+}
+SCR_GameModeEditor GameMode_Editor_Full1 : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor/GameMode_Editor_Full.et" {
+ coords 4874.719 28.594 11797.309
+ {
+  SCR_LoadoutManager {
+   ID "56E685E92F1B7E2A"
+   m_aPlayerLoadouts {
+    SCR_FactionPlayerLoadout "{5596D845DBEEF78C}" {
+     m_sLoadoutName "BCT Loadout"
+    }
+    SCR_FactionPlayerLoadout "{62E5333418E10C43}" {
+     m_sLoadoutName "Sniper MOS Loadout"
+     m_sLoadoutResource "{BA445BAF934B19F3}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Sniper.et"
+     m_sAffiliatedFaction "ENFORCERS"
+    }
+    SCR_FactionPlayerLoadout "{62E533347825F1B9}" {
+     m_sLoadoutName "Heavy MOS Loadout"
+     m_sLoadoutResource "{277570410C2DB2C7}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Heavy.et"
+     m_sAffiliatedFaction "ENFORCERS"
+    }
+   }
+  }
+ }
+}
