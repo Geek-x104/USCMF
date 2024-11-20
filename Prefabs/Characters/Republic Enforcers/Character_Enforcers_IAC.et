@@ -6,10 +6,8 @@ SCR_ChimeraCharacter : "{37578B1666981FCE}Prefabs/Characters/Core/Character_Base
     LoadoutSlotInfo Hat {
     }
     LoadoutSlotInfo Jacket {
-     Prefab "{8B3506802BE007F9}Prefabs/Characters/Uniforms/Jacket_Suit_01/Jacket_Suit_01_white.et"
     }
     LoadoutSlotInfo Pants {
-     Prefab "{9FFEFD30C55BC2F7}Prefabs/Characters/Uniforms/Pants_Suit_01/Pants_Suit_01_white.et"
     }
     LoadoutSlotInfo Vest {
     }

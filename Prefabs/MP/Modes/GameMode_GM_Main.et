@@ -16,6 +16,7 @@ SCR_GameModeEditor : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor/GameMode_Editor_
      m_OutlineFactionColor 0.251 0 0.502 0
      m_NotificationFactionColor 0.251 0 0.502 0
      m_NotificationTextFactionColor 0.251 0 0.502 0
+     m_bIsPlayable 0
      m_bShowInWelcomeScreenIfNonPlayable 0
      m_sFactionFlag "{1F42F5BCB1A6D777}Assets/Images/USCMFLogo.edds"
      m_FactionLabel FACTION_ENFORCERS

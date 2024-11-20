@@ -4,7 +4,7 @@ SCR_AIWorld : "{70CCCF16487C927F}Prefabs/AI/SCR_AIWorld_Eden.et" {
 SCR_GameModeEditor GameMode_GM_Main : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor/GameMode_Editor_Full.et" {
  coords 4852.525 28.594 11786.027
  {
-  SCR_FactionManager {
+  SCR_FactionManager "62E74CEAD57735E7" {
    ID "56E685E92F1B7E7A"
    Factions {
     SCR_Faction "{62E73A68C0A75E19}" {
@@ -144,7 +144,7 @@ SCR_GameModeEditor GameMode_GM_Main : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor
     }
    }
   }
-  PerceptionManager : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+  PerceptionManager "62E74CEAD577373F" : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
    coords 0.026 0 -0.009
   }
   SCR_LoadoutManager {
