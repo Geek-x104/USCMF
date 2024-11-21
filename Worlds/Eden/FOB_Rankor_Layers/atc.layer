@@ -1,0 +1,45 @@
+$grp GenericEntity : "{3E4C223A92230572}Prefabs/Props/Military/Sandbags/Sandbag_01_long_high_base.et" {
+ {
+  coords 4916.523 48.135 11785.153
+  angleY 89.992
+ }
+ {
+  coords 4916.523 48.135 11788.378
+  angleY 89.992
+ }
+ {
+  coords 4924.056 48.189 11790.613
+  angleY -0.282
+ }
+ {
+  coords 4921.115 48.159 11784.015
+  angleY 179.669
+ }
+ {
+  coords 4924.338 48.159 11784.032
+  angleY 179.669
+ }
+ {
+  coords 4925.396 48.196 11786.184
+  angleY 89.992
+ }
+ {
+  coords 4925.396 48.196 11789.408
+  angleY 89.992
+ }
+ {
+  coords 4917.516 48.135 11790.568
+  angleY -0.282
+ }
+ {
+  coords 4920.741 48.135 11790.585
+  angleY -0.282
+ }
+ {
+  coords 4918.304 48.12 11784.08
+  angleY -0.282
+ }
+}
+GenericEntity : "{DCFF17B631D1A672}Prefabs/Weapons/AutoTurrets/Light-MissileLauncher_Enforcers.et" {
+ coords 4921.065 48.377 11787.365
+}

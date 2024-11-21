@@ -1,19 +1,9 @@
-$grp SCR_SpawnPoint : "{E7F4D5562F48DDE4}Prefabs/MP/Spawning/SpawnPoint_Base.et" {
- {
-  coords 4924.172 28.775 11760.987
-  angleY -92.314
-  m_sFaction "ENFORCERS"
-  m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
-   Name "Boot Camp"
-   Icon "{A46CCA8CBCAD6841}Assets/Textures/Factions/Enforcer_Logo_Small.edds"
-  }
- }
- {
-  coords 4924.085 28.775 11763.139
-  angleY -92.314
-  m_sFaction "IAC"
-  m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
-   Name "Boot Camp"
-  }
+SCR_SpawnPoint : "{E7F4D5562F48DDE4}Prefabs/MP/Spawning/SpawnPoint_Base.et" {
+ coords 4886.61 28.83 11931.152
+ angleY 179.93
+ m_sFaction "ENFORCERS"
+ m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
+  Name "Boot Camp"
+  Icon "{A46CCA8CBCAD6841}Assets/Textures/Factions/Enforcer_Logo_Small.edds"
  }
 }

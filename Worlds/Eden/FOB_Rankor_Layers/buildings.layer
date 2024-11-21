@@ -1,0 +1,116 @@
+$grp GameEntity : "{0E94F28FD722B1D8}Prefabs/Props/Military/Generators/GeneratorFloodlight_US_01.et" {
+ {
+  coords 4932.725 28.594 11645.73
+  angleY 95.207
+ }
+ {
+  coords 4959.033 28.208 11604.138
+  angleY -115.831
+ }
+ {
+  coords 4940.188 28.208 11609.177
+  angleY 158.521
+ }
+ {
+  coords 4874.272 28.593 11715.033
+  angleY -0.913
+  {
+   $grp GameEntity : "{0E94F28FD722B1D8}Prefabs/Props/Military/Generators/GeneratorFloodlight_US_01.et" {
+    {
+     coords -10.142 0 0
+    }
+    {
+     coords -20.198 0 0
+    }
+    {
+     coords -30.181 0 0
+    }
+    {
+     coords -39.402 0 0
+    }
+   }
+  }
+ }
+ {
+  coords 4804.562 27.989 11695.052
+  angleY -90.559
+ }
+}
+SCR_DestructibleBuildingEntity : "{0F84CBDB6DC72F1B}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Military_Outpost.et" {
+ coords 4909.156 0 11641.473
+ angleY -180
+}
+SCR_DestructibleBuildingEntity : "{181B69BC0F5940B0}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Garage_Military_Base.et" {
+ coords 4818.739 0.742 11706.721
+ angleY -0.462
+}
+SCR_DestructibleBuildingEntity : "{239D94E5633B7560}Prefabs/Structures/Airport/Hangar_Briefing_Big.et" {
+ coords 4883.08 0.236 11917.646
+ angleY -90
+ {
+  $grp GameEntity : "{0E94F28FD722B1D8}Prefabs/Props/Military/Generators/GeneratorFloodlight_US_01.et" {
+   {
+    coords 18.14 0 -11.896
+    angleY -46.502
+   }
+   {
+    coords -19.021 0 11.623
+    angleY 125.933
+   }
+   {
+    coords -18.681 0 -10.856
+    angleY 43.498
+   }
+  }
+  $grp GenericEntity : "{45FE6E3AD4D384D3}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V1_Enforcers.et" {
+   {
+    coords -21.914 13.09 14.458
+    angleY 90
+   }
+   {
+    coords 21.835 11.667 -14.837
+    angleY 90
+   }
+   {
+    coords 21.835 13.153 14.558
+    angleY 90
+   }
+   {
+    coords -21.914 11.659 -14.938
+    angleY 90
+   }
+  }
+ }
+}
+GenericEntity : "{3884B81D0BEBEA26}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/CheckPoint1.et" {
+ coords 4948.224 27.906 11601.086
+ angleY 99.839
+}
+$grp GenericEntity : "{55D508179EF5E64A}Prefabs/Compositions/Slotted/SlotRoadMedium/Checkpoint_M_US_01.et" {
+ {
+  coords 4921.275 28.063 11611.051
+  angleY -175.826
+ }
+ {
+  coords 4938.567 28.717 11644.1
+  angleY -171.49
+ }
+}
+$grp GenericEntity : "{AE5ED5EB144950E6}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/MilitaryBase_Hangar1.et" {
+ {
+  coords 4890.081 28.594 11657.239
+  angleY -90
+ }
+ {
+  coords 4890.081 28.594 11669.153
+  angleY -90
+ }
+}
+SCR_DestructibleBuildingEntity : "{B668684CA41FE0B2}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Hangar_Shed.et" {
+ coords 4819.336 1.046 11677.024
+ angleY 180
+}
+GenericEntity : "{B779C64C2BDC8A34}Prefabs/Weapons/AutoTurrets/AutoTurret_X1_ENFORCERS.et" {
+ coords 4908.627 32.325 11637.928
+ angleY 180
+}

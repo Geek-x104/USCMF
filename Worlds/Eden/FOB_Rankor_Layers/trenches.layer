@@ -1,0 +1,630 @@
+SCR_DestructibleBuildingEntity : "{0F84CBDB6DC72F1B}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Military_Outpost.et" {
+ coords 4734.304 -0 10976.472
+}
+$grp StaticModelEntity : "{250B0F950A4490E0}Prefabs/Structures/Military/Fortifications/Trenches/TrenchOld_01/Trench_Line_2.et" {
+ {
+  coords 4744.215 0.212 12032.741
+  angleX -0.021
+  angleY 90.769
+  angleZ 0
+ }
+ {
+  coords 4715.696 0.137 11964.521
+  angleX 0.03
+  angleY -90.291
+  angleZ 1.783
+  {
+   $grp GenericEntity : "{68AB20C50AC0DD27}Prefabs/Props/Military/Sandbags/Sandbag_01_wall_solid_burlap.et" {
+    {
+     coords 16.514 -0.047 1.795
+     angleY 179.228
+    }
+    {
+     coords 16.4 -0.117 -1.557
+     angleY 179.228
+    }
+    {
+     coords 18.998 -0.104 -1.665
+     angleY 179.228
+    }
+    {
+     coords 19.113 -0.034 1.686
+     angleY 179.228
+    }
+    {
+     coords -16.724 -0.34 2.409
+     angleX 1.783
+     angleY 90.291
+     angleZ -0.021
+    }
+    {
+     coords -16.664 -0.336 -2.302
+     angleX 1.783
+     angleY 90.291
+     angleZ -0.021
+    }
+   }
+  }
+ }
+ {
+  coords 4706.764 0.001 11908.184
+  angleX -3.435
+  angleY 88.761
+  angleZ -0.942
+ }
+ {
+  coords 4736.963 0.233 11868.361
+  angleX 0.021
+  angleY -89.232
+  angleZ 1.115
+ }
+ {
+  coords 4726.731 0 11041.179
+  angleY 90
+ }
+ {
+  coords 4726.731 0 11007.743
+  angleY 90
+  angleZ -1.803
+ }
+ {
+  coords 4757.258 0.483 10957.788
+  angleX 0.423
+  angleY 0.006
+  angleZ 1.163
+ }
+ {
+  coords 4798.191 0.251 10958.96
+  angleY -1.291
+  angleZ -1.29
+ }
+ {
+  coords 4831.773 0.16 10960.105
+  angleX 0.092
+  angleY -2.67
+  angleZ 0.68
+ }
+}
+$grp GenericEntity : "{2F9B8A926C704A11}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Trench_T_1.et" {
+ {
+  coords 4737.133 25.821 11902.324
+  angleX 0.021
+  angleY -91.134
+  angleZ -0.001
+  {
+   StaticModelEntity : "{0C3B2727C604593E}Prefabs/Structures/Military/Fortifications/DirtCover_01/DirtCover_01_long_v2.et" {
+    coords 22.298 -0.454 0.214
+    angleY 83.362
+   }
+   $grp GenericEntity : "{4FA31AFF7C34F9FE}Prefabs/Props/Military/Sandbags/Sandbag_01_long_burlap.et" {
+    {
+     coords 21.145 0.73 1.843
+     angleX 4.216
+     angleY 177.33
+     angleZ -19.108
+    }
+    {
+     coords 21.26 0.825 -1.734
+     angleX 4.216
+     angleY 177.33
+     angleZ -19.108
+    }
+    {
+     coords 18.142 1.18 1.701
+     angleX 4.216
+     angleY 177.33
+    }
+    {
+     coords 18.29 1.394 -1.488
+     angleX 4.216
+     angleY 177.33
+    }
+   }
+   $grp GenericEntity : "{68AB20C50AC0DD27}Prefabs/Props/Military/Sandbags/Sandbag_01_wall_solid_burlap.et" {
+    {
+     coords -20.031 0.6 -2.034
+     angleX -1.714
+     angleY -178.573
+    }
+    {
+     coords -17.187 0.74 2.591
+     angleX -1.714
+     angleY -178.573
+    }
+    {
+     coords -17.347 0.6 -2.101
+     angleX -1.714
+     angleY -178.573
+    }
+    {
+     coords -19.87 0.74 2.658
+     angleX -1.714
+     angleY -178.573
+    }
+   }
+   GenericEntity : "{DCFF17B631D1A672}Prefabs/Weapons/AutoTurrets/Light-MissileLauncher_Enforcers.et" {
+    coords 0.23 2.141 4.367
+    angleY 90.07
+   }
+  }
+ }
+ {
+  coords 4706.255 28.461 11843.357
+  angleX 1.305
+  angleY -89.587
+  angleZ 0.294
+  {
+   $grp GenericEntity : "{68AB20C50AC0DD27}Prefabs/Props/Military/Sandbags/Sandbag_01_wall_solid_burlap.et" {
+    {
+     coords 19.189 0.961 2.111
+     angleX 1.296
+     angleY 179.888
+     angleZ 0.3
+    }
+    {
+     coords 21.871 0.975 2.114
+     angleX 1.296
+     angleY 179.888
+     angleZ 0.3
+    }
+    {
+     coords 21.837 1.081 -2.582
+     angleX 1.296
+     angleY 179.888
+     angleZ 0.3
+    }
+    {
+     coords 19.151 1.067 -2.587
+     angleX 1.296
+     angleY 179.888
+     angleZ 0.3
+    }
+    {
+     coords 50.657 -1.628 -2.887
+     angleX 5.158
+     angleY -177.715
+     angleZ 0.526
+    }
+    {
+     coords 48.132 -1.939 1.263
+     angleX 5.158
+     angleY -177.715
+     angleZ 0.526
+    }
+    {
+     coords 50.809 -1.91 1.122
+     angleX 5.158
+     angleY -177.715
+     angleZ 0.526
+    }
+    {
+     coords 47.953 -1.658 -2.747
+     angleX 5.158
+     angleY -177.715
+     angleZ 0.526
+    }
+    {
+     coords 16.486 -0.927 2.068
+     angleX 6.479
+     angleY 177.775
+     angleZ 0.42
+    }
+    {
+     coords 16.517 -0.511 -2.521
+     angleX 6.479
+     angleY 177.775
+     angleZ 0.42
+    }
+    {
+     coords 16.528 -2.667 -2.715
+     angleX 6.479
+     angleY 177.775
+     angleZ 0.42
+    }
+   }
+  }
+ }
+}
+$grp GenericEntity : "{43CFBE72D0B4C53F}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Trench_T_2.et" {
+ {
+  coords 4744.013 24.47 11998.798
+  angleX -0.021
+  angleY 89.356
+  angleZ -1.117
+  {
+   $grp GenericEntity : "{68AB20C50AC0DD27}Prefabs/Props/Military/Sandbags/Sandbag_01_wall_solid_burlap.et" {
+    {
+     coords 16.051 0.194 -0.918
+     angleX 1.564
+     angleY -2.172
+     angleZ 1.059
+    }
+    {
+     coords 15.952 0.265 1.686
+     angleX 1.564
+     angleY -2.172
+     angleZ 1.059
+    }
+   }
+  }
+ }
+ {
+  coords 4715.051 24.953 11998.454
+  angleX 0.021
+  angleY -91.243
+  angleZ 1.976
+  {
+   StaticModelEntity : "{14E9375155427C56}Prefabs/Structures/Military/Fortifications/Trenches/TrenchOld_01/TrenchOld_01_6m_metal_end.et" {
+    coords 0.242 -0.977 -14.986
+    angleX 1.977
+    angleY 90.179
+    angleZ 0.006
+   }
+  }
+ }
+ {
+  coords 4736.739 25.449 11941.6
+  angleX 0.021
+  angleY -90.268
+  angleZ -0.001
+  {
+   $grp StaticModelEntity : "{0C3B2727C604593E}Prefabs/Structures/Military/Fortifications/DirtCover_01/DirtCover_01_long_v2.et" {
+    {
+     coords 17.82 0.857 3.823
+     angleY -176.031
+    }
+    {
+     coords 18.015 0.888 -2.679
+     angleX -5.595
+     angleY 177.167
+     angleZ -1.694
+    }
+   }
+   $grp GenericEntity : "{68AB20C50AC0DD27}Prefabs/Props/Military/Sandbags/Sandbag_01_wall_solid_burlap.et" {
+    {
+     coords 15.337 0.74 -1.519
+     angleY 179.205
+    }
+    {
+     coords 17.953 0.74 -1.482
+     angleY 179.205
+    }
+    {
+     coords 17.905 0.74 1.993
+     angleY 179.205
+    }
+    {
+     coords 15.287 0.74 1.957
+     angleY 179.205
+    }
+   }
+  }
+ }
+ {
+  coords 4736.387 27.578 11843.104
+  angleX -2.571
+  angleY 90.237
+  angleZ -1.099
+ }
+}
+$grp StaticModelEntity : "{495F3B75B6801FCE}Prefabs/Structures/Military/Fortifications/Trenches/TrenchOld_01/Trench_Line_1.et" {
+ {
+  coords 4713.923 -0.525 12031.291
+  angleX 0.021
+  angleY -91.913
+  angleZ -0.001
+  {
+   $grp GenericEntity : "{68AB20C50AC0DD27}Prefabs/Props/Military/Sandbags/Sandbag_01_wall_solid_burlap.et" {
+    {
+     coords -13.665 0.31 -2.057
+     angleX 1.189
+     angleY 3.592
+     angleZ -1.467
+    }
+    {
+     coords -16.259 0.126 -1.875
+     angleX 1.189
+     angleY 3.592
+     angleZ -1.467
+    }
+    {
+     coords -16.049 0.196 1.471
+     angleX 1.189
+     angleY 3.592
+     angleZ -1.467
+    }
+    {
+     coords -13.455 0.38 1.29
+     angleX 1.189
+     angleY 3.592
+     angleZ -1.467
+    }
+   }
+  }
+ }
+ {
+  coords 4706.7 -0 11879.307
+  angleX 0.857
+  angleY -89.234
+  angleZ 2.954
+ }
+}
+StaticModelEntity : "{4E6A645A14F9D7D6}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Antenna_Destructible.et" {
+ coords 4881.129 28.398 11964.256
+ angleY 131.824
+}
+SCR_DestructibleBuildingEntity : "{645CE45DEFF1824A}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Military_Outpost_Medic.et" {
+ coords 4884 0.02 11991
+ angleY -90.177
+}
+GenericEntity : "{68AB20C50AC0DD27}Prefabs/Props/Military/Sandbags/Sandbag_01_wall_solid_burlap.et" {
+ coords 4721.361 27.221 11840.864
+ {
+  $grp GenericEntity : "{68AB20C50AC0DD27}Prefabs/Props/Military/Sandbags/Sandbag_01_wall_solid_burlap.et" {
+   {
+    coords -4.798 0 0.153
+    angleY 0
+   }
+   {
+    coords -98.299 -1.721 14.773
+    angleX 1.783
+    angleY -88.167
+    angleZ -0.021
+   }
+   {
+    coords -98.381 -1.721 12.212
+    angleX 1.783
+    angleY -88.167
+    angleZ -0.021
+   }
+   {
+    coords -98.466 -1.709 9.566
+    angleX 1.783
+    angleY -88.167
+    angleZ -0.021
+   }
+   {
+    coords -98.549 -1.709 6.962
+    angleX 1.783
+    angleY -88.167
+    angleZ -0.021
+   }
+   {
+    coords -98.635 -1.709 4.288
+    angleX 1.783
+    angleY -88.167
+    angleZ -0.021
+   }
+   {
+    coords -98.725 -1.709 1.468
+    angleX 1.783
+    angleY -88.167
+    angleZ -0.021
+   }
+   {
+    coords -94.23 -1.721 14.643
+    angleX 1.783
+    angleY -88.167
+    angleZ -0.021
+   }
+   {
+    coords -94.312 -1.721 12.082
+    angleX 1.783
+    angleY -88.167
+    angleZ -0.021
+   }
+   {
+    coords -94.397 -1.709 9.436
+    angleX 1.783
+    angleY -88.167
+    angleZ -0.021
+   }
+   {
+    coords -94.48 -1.709 6.832
+    angleX 1.783
+    angleY -88.167
+    angleZ -0.021
+   }
+   {
+    coords -94.566 -1.709 4.158
+    angleX 1.783
+    angleY -88.167
+    angleZ -0.021
+   }
+   {
+    coords -94.656 -1.709 1.337
+    angleX 1.783
+    angleY -88.167
+    angleZ -0.021
+   }
+  }
+ }
+}
+GenericEntity : "{78432CFAEEA71809}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Sandbag_Bunker_1.et" {
+ coords 4975.957 28.532 11843.979
+ angleY 98.643
+}
+GenericEntity : "{810C207EE71FA84A}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Repair_area.et" {
+ coords 4974.684 28.281 11947.881
+ angleY -81.054
+}
+$grp GenericEntity : "{B779C64C2BDC8A34}Prefabs/Weapons/AutoTurrets/AutoTurret_X1_ENFORCERS.et" {
+ {
+  coords 4763.887 28.879 10965.683
+  angleY 180
+  {
+   $grp StaticModelEntity : "{0C3B2727C604593E}Prefabs/Structures/Military/Fortifications/DirtCover_01/DirtCover_01_long_v2.et" {
+    {
+     coords 5.363 -0.944 -2.019
+     angleY 92.402
+    }
+    {
+     coords 5.296 -0.944 1.857
+     angleY 92.402
+    }
+    {
+     coords 5.266 -0.945 3.621
+     angleY 92.402
+    }
+    {
+     coords -5.312 -0.131 3.44
+     angleY 92.402
+    }
+    {
+     coords -5.282 -0.131 1.676
+     angleY 92.402
+    }
+    {
+     coords -6.521 -1.229 2.612
+     angleY 92.402
+    }
+    {
+     coords -5.216 -0.131 -2.202
+     angleY 92.402
+    }
+    {
+     coords -6.243 -1.192 -2.392
+     angleY 92.402
+    }
+    {
+     coords -3.536 -1.193 -3.913
+     angleY 13.346
+    }
+    {
+     coords -6.456 -1.306 0.836
+     angleY 92.402
+    }
+    {
+     coords 4.303 -0.944 -3.95
+     angleY 139.614
+    }
+    {
+     coords 0.089 -0.944 -4.549
+     angleY 179.019
+    }
+    {
+     coords 2.486 -0.944 -4.508
+     angleY 179.019
+    }
+   }
+   GenericEntity : "{D6D5331B30A2C7C6}Prefabs/Compositions/Misc/FreeRoamBuilding/CamoNetMedium_S_US_01.et" {
+    coords 0.096 1.178 -0.185
+    angleY -7.193
+   }
+  }
+ }
+ {
+  coords 4788.208 28.879 10966.879
+  angleY 180
+  {
+   $grp StaticModelEntity : "{0C3B2727C604593E}Prefabs/Structures/Military/Fortifications/DirtCover_01/DirtCover_01_long_v2.et" {
+    {
+     coords 2.52 -0.944 -4.238
+     angleY 180
+    }
+    {
+     coords 0.122 -0.944 -4.237
+     angleY 180
+    }
+    {
+     coords 5.439 -0.944 -1.798
+     angleY 93.383
+    }
+    {
+     coords 5.439 -0.944 2.078
+     angleY 93.383
+    }
+    {
+     coords 5.439 -0.945 3.842
+     angleY 93.383
+    }
+    {
+     coords -5.142 -0.131 3.842
+     angleY 93.383
+    }
+    {
+     coords -5.142 -0.131 2.078
+     angleY 93.383
+    }
+    {
+     coords -5.142 -0.131 -1.798
+     angleY 93.383
+    }
+    {
+     coords -6.364 -1.229 3.036
+     angleY 93.383
+    }
+    {
+     coords -6.329 -1.306 1.258
+     angleY 93.383
+    }
+    {
+     coords -6.17 -1.192 -1.972
+     angleY 93.383
+    }
+    {
+     coords -3.491 -1.193 -3.539
+     angleY 14.328
+    }
+    {
+     coords 4.347 -0.944 -3.711
+     angleY 140.595
+    }
+   }
+   GenericEntity : "{B89C671B75B43849}Prefabs/Structures/Military/CamoNets/US/CamoNet_Medium_US.et" {
+    coords 0.006 0.941 1.015
+    angleY -2.755
+   }
+  }
+ }
+}
+GenericEntity : "{D39AEC6AFE6F8EC9}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Trench_Bunker_Cover1.et" {
+ coords 4736.276 27.925 11821.212
+ angleX -1.978
+ angleY 90.209
+ angleZ -0.007
+}
+$grp GenericEntity : "{D79FECA12AC8F646}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Sandbag_Artillery.et" {
+ {
+  coords 4763.929 28.831 10965.445
+  angleY -179.265
+ }
+ {
+  coords 4787.936 28.831 10966.552
+  angleY -179.265
+ }
+}
+$grp StaticModelEntity : "{FADE3EDED50078AA}Prefabs/Structures/Military/Fortifications/Trenches/TrenchOld_01/Trench_Z_1.et" {
+ {
+  coords 4735.981 0.066 11963.809
+  angleX -0.021
+  angleY 87.891
+  angleZ -0.428
+ }
+ {
+  coords 4706.732 0 11929.965
+  angleX -3.05
+  angleY 89.31
+  angleZ 0.037
+  {
+   $grp GenericEntity : "{68AB20C50AC0DD27}Prefabs/Props/Military/Sandbags/Sandbag_01_wall_solid_burlap.et" {
+    {
+     coords 2.977 0.582 -1.921
+     angleY -0.374
+    }
+    {
+     coords 2.896 0.716 2.098
+     angleY -0.374
+    }
+    {
+     coords 5.661 0.582 -1.904
+     angleY -0.374
+    }
+    {
+     coords 5.6 0.716 2.116
+     angleY -0.374
+    }
+   }
+  }
+ }
+}

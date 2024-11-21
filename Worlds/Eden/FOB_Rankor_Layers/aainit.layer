@@ -2,11 +2,21 @@ SCR_AIWorld : "{70CCCF16487C927F}Prefabs/AI/SCR_AIWorld_Eden.et" {
  coords 4867.498 28.594 11791.168
 }
 SCR_GameModeEditor GameMode_GM_Main : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor/GameMode_Editor_Full.et" {
+ components {
+  SCR_RespawnTimerComponent "{56C2DDA6EE0E4071}" {
+   m_fRespawnTime 0
+  }
+ }
  coords 4852.525 28.594 11786.027
  {
   SCR_FactionManager "62E74CEAD57735E7" {
    ID "56E685E92F1B7E7A"
    Factions {
+    SCR_Faction "{60AB36C32ADBD40A}" {
+     m_aFriendlyFactionsIds {
+      "IAC"
+     }
+    }
     SCR_Faction "{62E73A68C0A75E19}" {
      FactionKey "IAC"
      FactionColor 0.251 0 0.502 1
@@ -18,6 +28,7 @@ SCR_GameModeEditor GameMode_GM_Main : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor
      m_OutlineFactionColor 0.251 0 0.502 0
      m_NotificationFactionColor 0.251 0 0.502 0
      m_NotificationTextFactionColor 0.251 0 0.502 0
+     m_bIsPlayable 0
      m_bShowInWelcomeScreenIfNonPlayable 0
      m_sFactionFlag "{1F42F5BCB1A6D777}Assets/Images/USCMFLogo.edds"
      m_FactionLabel FACTION_ENFORCERS
