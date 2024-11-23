@@ -171,7 +171,7 @@ SCR_GameModeEditor GameMode_GM_Main : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor
    m_aPlayerLoadouts {
     SCR_FactionPlayerLoadout "{5596D845DBEEF78C}" {
      m_sLoadoutName "Rifleman Loadout"
-     m_sLoadoutResource "{A3E8581713C7327A}Prefabs/Characters/Republic Enforcers/Character_Enforcers_BootCamp.et"
+     m_sLoadoutResource "{A3E8581713C7327A}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Rifleman.et"
     }
     SCR_FactionPlayerLoadout "{62E5333418E10C43}" {
      m_sLoadoutName "Sniper Loadout"
@@ -182,16 +182,6 @@ SCR_GameModeEditor GameMode_GM_Main : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor
      m_sLoadoutName "Heavy Loadout"
      m_sLoadoutResource "{277570410C2DB2C7}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Heavy.et"
      m_sAffiliatedFaction "ENFORCERS"
-    }
-    SCR_FactionPlayerLoadout "{62E73A68FB2D852E}" {
-     m_sLoadoutName "IAC Loadout"
-     m_sLoadoutResource "{CF66108D53E6DD71}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Hologram.et"
-     m_sAffiliatedFaction "IAC"
-    }
-    SCR_FactionPlayerLoadout "{62E73A6C57EBD072}" {
-     m_sLoadoutName "IAC Emergancy Loadout"
-     m_sLoadoutResource "{B6FDA3490427DFF0}Prefabs/Characters/Republic Enforcers/Character_Enforcers_IAC.et"
-     m_sAffiliatedFaction "IAC"
     }
    }
   }

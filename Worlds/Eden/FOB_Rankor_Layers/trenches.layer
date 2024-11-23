@@ -354,8 +354,7 @@ StaticModelEntity : "{4E6A645A14F9D7D6}Prefabs/Compositions/Misc/CustomEntities/
  angleY 131.824
 }
 SCR_DestructibleBuildingEntity : "{645CE45DEFF1824A}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Military_Outpost_Medic.et" {
- coords 4884 0.02 11991
- angleY -90.177
+ coords 4876.1 -0 11992.202
 }
 GenericEntity : "{68AB20C50AC0DD27}Prefabs/Props/Military/Sandbags/Sandbag_01_wall_solid_burlap.et" {
  coords 4721.361 27.221 11840.864

@@ -193,8 +193,8 @@ SCR_DestructibleBuildingEntity : "{239D94E5633B7560}Prefabs/Structures/Airport/H
  {
   $grp GameEntity : "{0E94F28FD722B1D8}Prefabs/Props/Military/Generators/GeneratorFloodlight_US_01.et" {
    {
-    coords 18.14 0 -11.896
-    angleY -46.502
+    coords 19.144 0 11.642
+    angleY -143.928
    }
    {
     coords -19.021 0 11.623
@@ -1494,7 +1494,7 @@ $grp GenericEntity : "{B779C64C2BDC8A34}Prefabs/Weapons/AutoTurrets/AutoTurret_X
     "faction affiliation" "ENFORCERS"
    }
   }
-  coords 4881.742 32.126 11992.153
+  coords 4876.471 31.949 11992.151
  }
 }
 GenericEntity : "{BC16FA49B7483E64}Prefabs/Props/Military/MilitaryCrates/CrateStack_01/CrateStack_01_decals_01.et" {

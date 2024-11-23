@@ -1,0 +1,9 @@
+SCR_SpawnPoint : "{C2489D6C17D1084D}Prefabs/MP/Spawning/SpawnPoint_ENFORCERS.et" {
+ ID "544EB04DCBFBD126"
+ coords 3557.333 45.208 2645.862
+ angleY 149.33
+ m_sFaction "IAC"
+ m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
+  Name "Spawn"
+ }
+}

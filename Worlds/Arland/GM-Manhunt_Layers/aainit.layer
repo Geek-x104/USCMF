@@ -1,0 +1,51 @@
+SCR_GameModeEditor GameMode_GM_Main1 : "{D2B6E044961A61DD}Prefabs/MP/Modes/GameMode_GM_Main.et" {
+ coords 678.273 0 3371.186
+ {
+  SCR_FactionManager "62EF47B8C26D05FA" {
+   ID "56E685E92F1B7E7A"
+   Factions {
+    SCR_Faction "{60AB36C32D620E8B}" {
+     m_bIsPlayable 0
+     m_bShowInWelcomeScreenIfNonPlayable 0
+    }
+    SCR_Faction "{62E73A68C0A75E19}" {
+     m_bIsMilitary 0
+    }
+   }
+  }
+ }
+}
+$grp SCR_BaseTriggerEntity {
+ spawnEnforcerVics {
+  coords 1363.028 39 2134.985
+  userScript "	string dropship = \"{8F89DBB5C174D20D}Prefabs/Vehicles/Ships/Dropship/Dropship_Armed.et\";"\
+  "	string truck = \"{F7C0489B71F73B70}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_Blaster.et\";"\
+  "	IEntity spawnDropship1, spawnDropship2;"\
+  "	"\
+  "	void spawnthings()"\
+  "	{"\
+  "		spawnDropship1 = GetGame().GetWorld().FindEntityByName(\"spawnDropship1\");"\
+  "		spawnDropship2 = GetGame().GetWorld().FindEntityByName(\"spawnDropship2\");"\
+  "		"\
+  "		EntitySpawnParams spawnParams = new EntitySpawnParams();"\
+  "		spawnParams.TransformMode = ETransformMode.WORLD;"\
+  "		"\
+  "		spawnParams.Transform[3] = spawnDropship1.GetOrigin();		"\
+  "		GetGame().SpawnEntityPrefab(Resource.Load(dropship),GetGame().GetWorld(),spawnParams);"\
+  "		spawnParams.Transform[3] = spawnDropship2.GetOrigin();"\
+  "		GetGame().SpawnEntityPrefab(Resource.Load(dropship),GetGame().GetWorld(),spawnParams);"\
+  "		spawnParams.Transform[3] = spawnDropship3.GetOrigin();"\
+  "		GetGame().SpawnEntityPrefab(Resource.Load(dropship),GetGame().GetWorld(),spawnParams);"\
+  "	}"
+  EOnInit ""\
+  "		super.EOnInit(owner);"\
+  "		GetGame().GetCallqueue().CallLater(spawnthings, 3000, false);"\
+  "	"
+ }
+ spawnDropship1 {
+  coords 1298.31 39.01 2097.692
+ }
+ spawnDropship2 {
+  coords 1278.989 39 2126.569
+ }
+}
