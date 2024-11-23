@@ -1,12 +1,12 @@
 SCR_DestructibleBuildingEntity : "{0F84CBDB6DC72F1B}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Military_Outpost.et" {
- coords 4734.304 -0 10976.472
+ coords 4731.058 -0.111 10981.688
+ angleY 88.989
 }
 $grp StaticModelEntity : "{250B0F950A4490E0}Prefabs/Structures/Military/Fortifications/Trenches/TrenchOld_01/Trench_Line_2.et" {
  {
   coords 4744.215 0.212 12032.741
   angleX -0.021
   angleY 90.769
-  angleZ 0
  }
  {
   coords 4715.696 0.137 11964.521
@@ -63,11 +63,6 @@ $grp StaticModelEntity : "{250B0F950A4490E0}Prefabs/Structures/Military/Fortific
   angleY 90
  }
  {
-  coords 4726.731 0 11007.743
-  angleY 90
-  angleZ -1.803
- }
- {
   coords 4757.258 0.483 10957.788
   angleX 0.423
   angleY 0.006
@@ -79,7 +74,7 @@ $grp StaticModelEntity : "{250B0F950A4490E0}Prefabs/Structures/Military/Fortific
   angleZ -1.29
  }
  {
-  coords 4831.773 0.16 10960.105
+  coords 4832.53 0.149 10960.141
   angleX 0.092
   angleY -2.67
   angleZ 0.68
@@ -143,6 +138,11 @@ $grp GenericEntity : "{2F9B8A926C704A11}Prefabs/Compositions/Misc/CustomEntities
     }
    }
    GenericEntity : "{DCFF17B631D1A672}Prefabs/Weapons/AutoTurrets/Light-MissileLauncher_Enforcers.et" {
+    components {
+     FactionAffiliationComponent "{62ACAE2F976BB213}" {
+      "faction affiliation" "ENFORCERS"
+     }
+    }
     coords 0.23 2.141 4.367
     angleY 90.07
    }
@@ -343,7 +343,7 @@ $grp StaticModelEntity : "{495F3B75B6801FCE}Prefabs/Structures/Military/Fortific
   }
  }
  {
-  coords 4706.7 -0 11879.307
+  coords 4706.7 0 11879.307
   angleX 0.857
   angleY -89.234
   angleZ 2.954
@@ -450,6 +450,11 @@ GenericEntity : "{810C207EE71FA84A}Prefabs/Compositions/Misc/CustomEntities/Comp
 }
 $grp GenericEntity : "{B779C64C2BDC8A34}Prefabs/Weapons/AutoTurrets/AutoTurret_X1_ENFORCERS.et" {
  {
+  components {
+   FactionAffiliationComponent "{62ACAE2F976BB213}" {
+    "faction affiliation" "ENFORCERS"
+   }
+  }
   coords 4763.887 28.879 10965.683
   angleY 180
   {
@@ -514,6 +519,11 @@ $grp GenericEntity : "{B779C64C2BDC8A34}Prefabs/Weapons/AutoTurrets/AutoTurret_X
   }
  }
  {
+  components {
+   FactionAffiliationComponent "{62ACAE2F976BB213}" {
+    "faction affiliation" "ENFORCERS"
+   }
+  }
   coords 4788.208 28.879 10966.879
   angleY 180
   {

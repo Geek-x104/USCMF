@@ -17,6 +17,14 @@ SCR_GameModeEditor GameMode_GM_Main : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor
       "IAC"
      }
     }
+    SCR_Faction "{60AB36C32D620E8B}" {
+     m_bIsPlayable 0
+     m_bShowInWelcomeScreenIfNonPlayable 0
+    }
+    SCR_Faction "{60AB36C32C2345C0}" {
+     m_bIsPlayable 0
+     m_bShowInWelcomeScreenIfNonPlayable 0
+    }
     SCR_Faction "{62E73A68C0A75E19}" {
      FactionKey "IAC"
      FactionColor 0.251 0 0.502 1

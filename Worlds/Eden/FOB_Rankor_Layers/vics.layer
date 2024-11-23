@@ -1,12 +1,11 @@
 $grp SCR_BaseTriggerEntity {
  spawnDropship1 {
-  coords 4881.501 28.594 11800.602
+  coords 4873.9 28.594 11800.548
+  angleY 90
  }
  spawnDropship2 {
-  coords 4882.248 28.594 11834.777
- }
- spawnDropship3 {
-  coords 4882.06 28.594 11870.492
+  coords 4873.9 28.594 11835.293
+  angleY 90
  }
  spawnEnforcerVics {
   coords 4913.195 25.287 11798.846
@@ -57,20 +56,24 @@ $grp SCR_BaseTriggerEntity {
   "		GetGame().GetCallqueue().CallLater(spawnthings, 3000, false);"\
   "	"
  }
- spawnDropship4 {
-  coords 4931.053 28.775 11762.294
-  angleY -179.936
- }
  spawnTruck1 {
   coords 4808.745 29.071 11711.52
  }
  spawnTruck2 {
-  coords 4815.267 29.071 11712.082
+  coords 4815.267 29.071 11711.413
  }
  spawnTruck3 {
-  coords 4821.763 29.071 11712.653
+  coords 4821.763 29.071 11711.482
  }
  spawnTruck4 {
-  coords 4828.241 29.071 11712.989
+  coords 4828.241 29.071 11711.624
+ }
+ spawnTruck5 {
+  coords 4848.779 28.454 11023.018
+  angleY -54.303
+ }
+ spawnDropship3 {
+  coords 4873.9 28.594 11870.19
+  angleY 90
  }
 }

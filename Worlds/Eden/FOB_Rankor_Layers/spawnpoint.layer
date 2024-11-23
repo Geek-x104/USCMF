@@ -1,9 +1,30 @@
-SCR_SpawnPoint : "{E7F4D5562F48DDE4}Prefabs/MP/Spawning/SpawnPoint_Base.et" {
- coords 4886.61 28.83 11931.152
- angleY 179.93
- m_sFaction "ENFORCERS"
- m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
-  Name "Boot Camp"
-  Icon "{A46CCA8CBCAD6841}Assets/Textures/Factions/Enforcer_Logo_Small.edds"
+$grp SCR_SpawnPoint : "{E7F4D5562F48DDE4}Prefabs/MP/Spawning/SpawnPoint_Base.et" {
+ {
+  components {
+   SCR_MapDescriptorComponent "{54C659A97C47BDE2}" {
+    VisibleOnMap 1
+   }
+  }
+  coords 4886.61 28.83 11931.152
+  angleY 179.93
+  m_sFaction "ENFORCERS"
+  m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
+   Name "Briefing Area"
+   Icon "{A46CCA8CBCAD6841}Assets/Textures/Factions/Enforcer_Logo_Small.edds"
+  }
+ }
+ {
+  components {
+   SCR_MapDescriptorComponent "{54C659A97C47BDE2}" {
+    VisibleOnMap 1
+   }
+  }
+  coords 4853.638 27.899 11052.424
+  angleY 179.93
+  m_sFaction "ENFORCERS"
+  m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
+   Name "South Defences"
+   Icon "{A46CCA8CBCAD6841}Assets/Textures/Factions/Enforcer_Logo_Small.edds"
+  }
  }
 }
