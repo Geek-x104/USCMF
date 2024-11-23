@@ -1,0 +1,7 @@
+SCR_SpawnPoint : "{17F7EC7F01B120B4}Prefabs/MP/Spawning/SpawnPoint_CIW.et" {
+ coords 3165.254 3.688 1172.42
+ m_sFaction "CIW"
+ m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
+  Name "Spawn"
+ }
+}

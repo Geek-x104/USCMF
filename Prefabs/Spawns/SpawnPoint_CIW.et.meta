@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{A3E8581713C7327A}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Rifleman.et"
+ Name "{8B1FAE0D8DC6BC61}Prefabs/Spawns/SpawnPoint_CIW.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }

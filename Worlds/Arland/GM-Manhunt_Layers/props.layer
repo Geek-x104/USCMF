@@ -1,0 +1,14 @@
+GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
+ components {
+  MeshObject "{60B3026A2C58EECC}" {
+   Materials {
+    MaterialAssignClass "{62EF47BA70EBBD3C}" {
+     SourceMaterial "CorvetteF3"
+     AssignedMaterial "{312F652F8CC95EF9}Assets/Vehicles/F3_Corvette/Data/CorvetteF3_Enforcer.emat"
+    }
+   }
+  }
+ }
+ coords 1743.02 1256.569 2601.413
+ scale 15
+}
