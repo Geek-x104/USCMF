@@ -1,0 +1,28 @@
+SCR_GameModeEditor : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor/GameMode_Editor_Full.et" {
+ ID "56B2B479C6B96951"
+ components {
+  SCR_RespawnTimerComponent "{56C2DDA6EE0E4071}" {
+   m_fRespawnTime 15
+  }
+ }
+ coords 4919.628 28.593 11820.525
+ {
+  SCR_FactionManager {
+   ID "56E685E92F1B7E7A"
+   Factions {
+    SCR_Faction "{60AB36C32ADBD40A}" {
+     m_aFriendlyFactionsIds {
+      "US"
+     }
+    }
+    SCR_Faction "{60AB36C32D620E8B}" {
+     m_FactionLabel FACTION_FIA
+    }
+   }
+  }
+  PerceptionManager PerceptionManager1 : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+   ID "62EF721D5558DFCA"
+   coords 0.477 0 0.051
+  }
+ }
+}

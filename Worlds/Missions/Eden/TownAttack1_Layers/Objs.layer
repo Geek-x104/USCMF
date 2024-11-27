@@ -1,0 +1,7 @@
+SCR_ChimeraCharacter : "{3455CCB6BD2331C3}Prefabs/Characters/Campaign/Final/Campaign_CIW_AI.et" {
+ coords 4712.845 134.069 7698.61
+}
+SCR_ChimeraCharacter : "{626874113CAE4387}Prefabs/Characters/Factions/CIV/Businessman/Character_CIV_Businessman_3.et" {
+ coords 4787.229 169.679 6993.951
+ angleY -102.387
+}

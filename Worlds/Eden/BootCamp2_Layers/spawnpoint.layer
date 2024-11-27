@@ -1,6 +1,6 @@
 SCR_SpawnPoint : "{E7F4D5562F48DDE4}Prefabs/MP/Spawning/SpawnPoint_Base.et" {
- coords 4846.616 28.594 11769.872
- angleY -92.314
+ coords 4843.416 28.594 11770.319
+ angleY 90
  m_sFaction "ENFORCERS"
  m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
   Name "Boot Camp"

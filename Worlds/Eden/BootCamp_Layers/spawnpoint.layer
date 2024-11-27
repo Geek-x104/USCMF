@@ -1,9 +1,0 @@
-SCR_SpawnPoint : "{E7F4D5562F48DDE4}Prefabs/MP/Spawning/SpawnPoint_Base.et" {
- coords 4846.617 28.594 11817.833
- angleY -92.314
- m_sFaction "ENFORCERS"
- m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
-  Name "Boot Camp"
-  Icon "{A46CCA8CBCAD6841}Assets/Textures/Factions/Enforcer_Logo_Small.edds"
- }
-}

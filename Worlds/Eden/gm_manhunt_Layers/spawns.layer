@@ -1,0 +1,4 @@
+SCR_SpawnPoint : "{EE493FFC3B0A65FD}Prefabs/Spawns/SpawnPoint_ENFORCERS.et" {
+ coords 4918.778 28.775 11760.916
+ angleY 90
+}

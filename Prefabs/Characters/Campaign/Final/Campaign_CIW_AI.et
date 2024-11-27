@@ -1,0 +1,18 @@
+SCR_ChimeraCharacter : "{4D74D227A0797736}Prefabs/Characters/Campaign/Final/Campaign_CIW_Base.et" {
+ ID "520EC961A090B1EE"
+ components {
+  ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+   EnableAI 1
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+     TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+    }
+    ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+     TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+    }
+   }
+  }
+ }
+}
