@@ -3,6 +3,9 @@ SCR_AIWorld : "{70CCCF16487C927F}Prefabs/AI/SCR_AIWorld_Eden.et" {
 }
 SCR_GameModeEditor GameMode_GM_Main : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor/GameMode_Editor_Full.et" {
  components {
+  SCR_InitWeatherComponent "{58DCAB6D83A0CB17}" {
+   m_sInitialStartingWeatherId "Sun"
+  }
   SCR_RespawnTimerComponent "{56C2DDA6EE0E4071}" {
    m_fRespawnTime 0
   }
@@ -170,17 +173,32 @@ SCR_GameModeEditor GameMode_GM_Main : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor
    ID "56E685E92F1B7E2A"
    m_aPlayerLoadouts {
     SCR_FactionPlayerLoadout "{5596D845DBEEF78C}" {
-     m_sLoadoutName "Rifleman Loadout"
-     m_sLoadoutResource "{A3E8581713C7327A}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Rifleman.et"
+     m_sLoadoutName "Default Rifleman"
+     m_sLoadoutResource "{3112A5D122BBCD38}Prefabs/Characters/Republic Enforcers/Character_Enforcers_RIfleman_BootCamp.et"
     }
-    SCR_FactionPlayerLoadout "{62E5333418E10C43}" {
-     m_sLoadoutName "Sniper Loadout"
-     m_sLoadoutResource "{BA445BAF934B19F3}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Sniper.et"
+    SCR_FactionPlayerLoadout "{62F5555940649FE6}" {
+     m_sLoadoutName "Default MG"
+     m_sLoadoutResource "{40AE82D646EDB66D}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Heavy_BootCamp.et"
+     m_sAffiliatedFaction "ENFORCERS"
+    }
+    SCR_FactionPlayerLoadout "{62F5555942C01F65}" {
+     m_sLoadoutName "Default Marksman"
+     m_sLoadoutResource "{6CD29A6D59BF9DA9}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Sniper_BootCamp.et"
      m_sAffiliatedFaction "ENFORCERS"
     }
     SCR_FactionPlayerLoadout "{62E533347825F1B9}" {
-     m_sLoadoutName "Heavy Loadout"
-     m_sLoadoutResource "{277570410C2DB2C7}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Heavy.et"
+     m_sLoadoutName "1MB Rifleman"
+     m_sLoadoutResource "{2290061CADB8C4A8}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Rifleman_1MB.et"
+     m_sAffiliatedFaction "ENFORCERS"
+    }
+    SCR_FactionPlayerLoadout "{62F353FAAF22E03E}" {
+     m_sLoadoutName "1MB MG"
+     m_sLoadoutResource "{40AE82D646EDB66E}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Heavy_1MB.et"
+     m_sAffiliatedFaction "ENFORCERS"
+    }
+    SCR_FactionPlayerLoadout "{62F363E7C10DF8BA}" {
+     m_sLoadoutName "1MB Marksman"
+     m_sLoadoutResource "{BA445BAF934B19F4}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Sniper_1MB.et"
      m_sAffiliatedFaction "ENFORCERS"
     }
    }

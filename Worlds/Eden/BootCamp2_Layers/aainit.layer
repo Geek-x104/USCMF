@@ -3,4 +3,29 @@ SCR_AIWorld : "{70CCCF16487C927F}Prefabs/AI/SCR_AIWorld_Eden.et" {
 }
 SCR_GameModeEditor GameMode_GM_Main1 : "{D2B6E044961A61DD}Prefabs/MP/Modes/GameMode_GM_Main.et" {
  coords 4853.675 28.594 11780.021
+ {
+  SCR_LoadoutManager {
+   ID "56E685E92F1B7E2A"
+   m_aPlayerLoadouts {
+    SCR_FactionPlayerLoadout "{5596D845DBEEF78C}" {
+     m_sLoadoutResource "{3112A5D122BBCD38}Prefabs/Characters/Republic Enforcers/Character_Enforcers_RIfleman_BootCamp.et"
+    }
+    SCR_FactionPlayerLoadout "{62E5333418E10C43}" {
+     m_sLoadoutResource "{6CD29A6D59BF9DA9}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Sniper_BootCamp.et"
+    }
+    SCR_FactionPlayerLoadout "{62E533347825F1B9}" {
+     m_sLoadoutResource "{40AE82D646EDB66D}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Heavy_BootCamp.et"
+    }
+    SCR_FactionPlayerLoadout "{62E73A68FB2D852E}" {
+     m_sLoadoutName "IAC"
+     m_sLoadoutResource "{F5597EEC9E1F3B58}Prefabs/Characters/Republic Enforcers/Character_Enforcers_IAC.et"
+     m_sAffiliatedFaction ""
+    }
+    SCR_FactionPlayerLoadout "{62E73A6C57EBD072}" {
+     m_sLoadoutName "IAC"
+     m_sAffiliatedFaction ""
+    }
+   }
+  }
+ }
 }

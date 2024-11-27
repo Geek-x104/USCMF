@@ -11,7 +11,7 @@ $grp GenericEntity {
     }
    }
   }
-  coords 5226.107 670.58 12313.052
+  coords 5226.107 506.364 12313.052
   angleY 128.103
   scale 4
  }
@@ -27,9 +27,9 @@ $grp GenericEntity {
     }
    }
   }
-  coords 4575.089 353.933 11739.019
+  coords 3876.277 321.917 11693.16
   angleY -17.52
-  scale 2.5
+  scale 3
  }
  {
   components {
@@ -43,8 +43,9 @@ $grp GenericEntity {
     }
    }
   }
-  coords 4763.811 1151.347 11816.979
-  scale 20
+  coords 4779.424 953.199 10898.301
+  angleY -163.527
+  scale 25
  }
  {
   components {
@@ -58,7 +59,7 @@ $grp GenericEntity {
     }
    }
   }
-  coords 5321.973 813.501 11314.604
+  coords 5830.49 258.767 11177.026
   angleY 13.459
   scale 8
  }
@@ -150,6 +151,10 @@ $grp GameEntity : "{0E94F28FD722B1D8}Prefabs/Props/Military/Generators/Generator
  {
   coords 4803.992 27.989 11694.811
   angleY -90.559
+ }
+ {
+  coords 4909.596 28.593 11835.382
+  angleY -89.249
  }
 }
 SCR_DestructibleBuildingEntity : "{0F84CBDB6DC72F1B}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Military_Outpost.et" {
@@ -1505,7 +1510,7 @@ GenericEntity : "{C1BF4A1B214AEEF2}Prefabs/Props/Military/MilitaryCrates/ShellCo
  coords 4894.635 28.594 11822.876
 }
 GenericEntity : "{D07BC4D2D0AEAC38}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPos_S_Tan_01.et" {
- coords 4572.298 24.896 11149.548
+ coords 4572.303 24.288 11148.944
  angleY -90.46
 }
 GenericEntity : "{D30C5CE6404FF0D9}Prefabs/Props/Military/SupplyBox/SupplyStack/SupplyStack_Base.et" {

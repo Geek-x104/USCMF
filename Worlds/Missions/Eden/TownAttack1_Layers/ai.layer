@@ -1,0 +1,2028 @@
+$grp SCR_ChimeraCharacter : "{3455CCB6BD2331C3}Prefabs/Characters/Campaign/Final/Campaign_CIW_AI.et" {
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5496.877 96.419 6116.745
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4780.456 169.292 6997.28
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4779.225 172.898 6987.234
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4773.151 169.309 6985.438
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4783.329 171.386 6997.709
+  angleY -90.856
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4791.733 169.679 6995.506
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4729.023 163.026 7015.354
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4730.455 163.026 7020.361
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4746.741 164.152 7025.404
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4748.366 164.152 7019.188
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4756.166 174.429 7020.118
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4752.036 164.143 7020.642
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4743.307 171.363 7020.088
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4742.736 164.143 7024.52
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4746.812 167.948 7025.569
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4756.245 167.943 7019.812
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4743.734 167.95 7018.817
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4688.405 165.251 6977.58
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4678.374 161.151 6980.806
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4683.691 168.551 6979.395
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4683.476 161.151 6979.098
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4678.053 165.251 6979.81
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4677.515 161.096 7005.996
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4676.97 161.096 7010.447
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4674.864 161.096 7004.114
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4675.466 161.096 6996.345
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4803.256 167.023 7116.051
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4809.039 170.673 7117.538
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4800.411 163.738 7127.854
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4804.747 163.634 7121.343
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4804.849 167.023 7128.657
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4804.158 163.744 7115.025
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4810.239 163.688 7116.991
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4804.221 163.723 7128.555
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4799.953 167.023 7125.939
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4807.595 167.023 7116.448
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4727.489 161.442 7135.336
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4723.7 161.442 7138.906
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4728.752 161.442 7126.103
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4828.545 169.627 7019.479
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4836.402 170.085 7011.35
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4831.114 169.595 7023.281
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4822.851 169.778 7029.431
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4826.891 169.778 7032.542
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4830.162 173.578 7028.641
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4836.873 173.578 7023.29
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4829.312 173.578 7022.636
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4825.465 173.578 7032.015
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4165.667 37.688 7791.201
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4173.097 37.688 7792.693
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4165.59 37.688 7800.58
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4166.614 37.688 7784.687
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4052.073 31.338 7790.951
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4057.745 31.338 7785.546
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4109.597 39.125 7767.258
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4094.404 37.79 7765.527
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4084.901 35.822 7741.996
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4054.553 29.873 7767.654
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4083.727 32.689 7806.294
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4041.099 32.531 7854.146
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4040.56 32.82 7839.626
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4038.725 32.531 7837.807
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4022.278 32.531 7862.795
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5681.063 91.657 5905.531
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5709.178 92.378 5906.285
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5722.667 92.753 5891.828
+  angleY -92.532
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5717.624 91.856 5859.855
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5664.5 92.527 5881.486
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5652.032 91.727 5882.971
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5484.609 92.038 6007.208
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5484.875 92.038 6002.731
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5480.833 92.038 6000.471
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5485.19 92.038 5996.965
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5480.047 92.038 5995.435
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5482.596 92.038 5989.333
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5480.629 92.038 5989.562
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5516.785 96.691 6130.67
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5494.477 97.252 6147.624
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5541.989 99.014 6172.897
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5540.735 99.496 6206.409
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5486.848 98.047 6189.581
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5500.633 96.419 6123.457
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5498.929 96.419 6119.145
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5506.974 96.419 6114.248
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5500.793 96.419 6114.307
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5502.734 96.426 6108.189
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5498.046 96.419 6108.492
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 5493.689 96.419 6113.545
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4805.585 170.325 7116.372
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4054.937 31.338 7789.228
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4054.669 30.605 7781.563
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    components {
+     SCR_AICombatComponent "{55A2C9BE343B2EA1}" {
+      m_eAISkillDefault VETERAN
+     }
+    }
+   }
+   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+    InitialInventoryItems {
+     ItemsInitConfigurationItem "{62F0F269F78779CB}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+     ItemsInitConfigurationItem "{62F0F269F674AB86}" {
+      TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Chip.et"
+     }
+    }
+   }
+  }
+  coords 4066.483 31.719 7796.833
+ }
+}

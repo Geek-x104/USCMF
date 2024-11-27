@@ -1,12 +1,13 @@
 GenericEntity : "{7CAD8FB0E25EF7B4}Prefabs/Props/HologramTable.et" {
  ID "519690E29A65E796"
- coords 4853.306 28.594 11818.034
+ coords -0.05 0 -1.799
+ angleY -90
  {
   $grp GenericEntity : "{0364A92598A826F3}Prefabs/Props/Furniture/BenchStadium_01.et" {
    {
     ID "62E6FCF5B0F64878"
-    coords 6.031 0 -0.158
-    angleY -89.107
+    coords 6.033 0 -0.034
+    angleY -89.978
    }
    {
     ID "62E6FCF5B0F64879"
