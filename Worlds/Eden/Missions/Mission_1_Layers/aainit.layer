@@ -1,0 +1,98 @@
+SCR_AIWorld : "{70CCCF16487C927F}Prefabs/AI/SCR_AIWorld_Eden.et" {
+ coords 4867.498 28.594 11791.168
+}
+SCR_GameModeEditor GameMode_GM_Main1 : "{D2B6E044961A61DD}Prefabs/MP/Modes/GameMode_GM_Main.et" {
+ components {
+  SCR_InitWeatherComponent "{58DCAB6D83A0CB17}" {
+   m_sInitialStartingWeatherId "Rainy"
+  }
+  SCR_RespawnTimerComponent "{56C2DDA6EE0E4071}" {
+   m_fRespawnTime 0
+  }
+  SCR_TimeAndWeatherHandlerComponent "{62F965E304DAF2E7}" {
+   m_iStartingHours 18
+   m_iStartingMinutes 34
+  }
+ }
+ coords 4853.675 28.594 11780.021
+ {
+  SCR_FactionManager "62F957AC71D257A2" {
+   ID "56E685E92F1B7E7A"
+   Factions {
+    SCR_Faction "{60AB36C32D620E8B}" {
+     m_bIsPlayable 0
+     m_bShowInWelcomeScreenIfNonPlayable 0
+    }
+    SCR_Faction "{60AB36C32C2345C0}" {
+     m_bIsPlayable 0
+     m_bShowInWelcomeScreenIfNonPlayable 0
+    }
+   }
+  }
+  SCR_LoadoutManager {
+   ID "56E685E92F1B7E2A"
+   m_aPlayerLoadouts {
+    SCR_FactionPlayerLoadout "{5596D845DBEEF78C}" {
+     m_sLoadoutResource "{3112A5D122BBCD38}Prefabs/Characters/Republic Enforcers/Character_Enforcers_RIfleman_BootCamp.et"
+    }
+    SCR_FactionPlayerLoadout "{62E5333418E10C43}" {
+     m_sLoadoutName "MG Loadout"
+     m_sLoadoutResource "{40AE82D646EDB66D}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Heavy_BootCamp.et"
+    }
+    SCR_FactionPlayerLoadout "{62E533347825F1B9}" {
+     m_sLoadoutName "Marksman Loadout"
+     m_sLoadoutResource "{6CD29A6D59BF9DA9}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Sniper_BootCamp.et"
+    }
+    SCR_FactionPlayerLoadout "{62E73A68FB2D852E}" {
+     m_sLoadoutName "1MB Rifleman"
+     m_sLoadoutResource "{2290061CADB8C4A8}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Rifleman_1MB.et"
+     m_sAffiliatedFaction "ENFORCERS"
+    }
+    SCR_FactionPlayerLoadout "{62E73A6C57EBD072}" {
+     m_sLoadoutName "1MB MG"
+     m_sLoadoutResource "{40AE82D646EDB66E}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Heavy_1MB.et"
+     m_sAffiliatedFaction "ENFORCERS"
+    }
+    SCR_FactionPlayerLoadout "{62F9272BE60FD563}" {
+     m_sLoadoutResource "{BA445BAF934B19F4}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Sniper_1MB.et"
+     m_sAffiliatedFaction "ENFORCERS"
+    }
+   }
+  }
+ }
+}
+GenericEntity : "{3B848E9DED3ADF4F}Prefabs/Compositions/Misc/arsenal=noflag.et" {
+ coords 4883.099 28.83 11937.354
+}
+GenericEntity : "{5762817612C15920}Prefabs/Compositions/Misc/Briefing_Setup.et" {
+ coords 4885.58 28.83 11917.532
+ angleY 180
+ {
+  GenericEntity {
+   ID "62E6FCF5B0F64878"
+   coords 6.033 0 -0.034
+   angleY -89.978
+  }
+  GenericEntity {
+   ID "62E6FCF5B0F64879"
+   coords 3.869 0 -6.282
+   angleY -46.503
+  }
+  GenericEntity {
+   ID "62E6FCF5B0F6487A"
+   coords 3.908 0 6.062
+   angleY -135.474
+  }
+ }
+}
+SCR_SpawnPoint : "{C2489D6C17D1084D}Prefabs/MP/Spawning/SpawnPoint_ENFORCERS.et" {
+ components {
+  SCR_MapDescriptorComponent "{54C659A97C47BDE2}" {
+   DisplayName "Main Base"
+   VisibleOnMap 1
+  }
+ }
+ coords 4872.229 28.83 11917.653
+ angleY 89.979
+ m_sFaction "ENFORCERS"
+}

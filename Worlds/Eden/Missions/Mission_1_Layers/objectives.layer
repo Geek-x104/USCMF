@@ -1,0 +1,44 @@
+GenericEntity MissileLauncher_Nerfed_CIW : "{51772946B67D3C22}Prefabs/Weapons/AutoTurrets/Light-MissileLauncher_CIW.et" {
+ coords 9357.584 56.6 2023.834
+}
+$grp GenericEntity : "{9FC5C2A62A9D7828}Prefabs/Weapons/MissileLauncher_Nerfed_CIW.et" {
+ {
+  coords 9240.802 63.183 2126.322
+  angleX 11.435
+ }
+ {
+  coords 9282.042 53.208 2004.361
+ }
+}
+$grp GenericEntity : "{E77500A17C206681}Prefabs/Vehicles/Ships/F3_Nerfed_CIW.et" {
+ {
+  components {
+   SCR_DestructionMultiPhaseComponent "{62C93858E4F246E5}" {
+    m_fBaseHealth 15000
+    m_fDamageThresholdMaximum 50000
+   }
+  }
+  coords 10118.062 544.079 1269.832
+  angleY -55.653
+  scale 5
+ }
+ {
+  components {
+   SCR_DestructionMultiPhaseComponent "{62C93858E4F246E5}" {
+    m_fBaseHealth 15000
+    m_fDamageThresholdMaximum 50000
+   }
+  }
+  coords 9777.42 422.925 1725.198
+  angleY 70.693
+ }
+}
+SCR_ChimeraCharacter : "{F5597EEC9E1F3B58}Prefabs/Characters/Republic Enforcers/Character_Enforcers_IAC.et" {
+ components {
+  FactionAffiliationComponent "{5DF0DD57539B11EA}" {
+   "faction affiliation" "CIV"
+  }
+ }
+ coords 9693.449 21.377 1611.064
+ angleY -105.976
+}

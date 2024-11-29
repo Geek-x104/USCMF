@@ -1,0 +1,655 @@
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{62ED527C1BA73B13}" {
+    Object "{4C1CEB7D8C9D8A39}Assets/Vehicles/F3_Corvette/F3_Grey.xob"
+    Materials {
+     MaterialAssignClass "{62ED527C062EA73E}" {
+      SourceMaterial "CorvetteF3"
+      AssignedMaterial "{312F652F8CC95EF9}Assets/Vehicles/F3_Corvette/Data/CorvetteF3_Enforcer.emat"
+     }
+    }
+   }
+  }
+  coords 5566.895 546.547 12716.134
+  angleY 128.103
+  scale 15
+ }
+ {
+  components {
+   MeshObject "{62ED527C1BA73B13}" {
+    Object "{4C1CEB7D8C9D8A39}Assets/Vehicles/F3_Corvette/F3_Grey.xob"
+    Materials {
+     MaterialAssignClass "{62ED527C062EA73E}" {
+      SourceMaterial "CorvetteF3"
+      AssignedMaterial "{312F652F8CC95EF9}Assets/Vehicles/F3_Corvette/Data/CorvetteF3_Enforcer.emat"
+     }
+    }
+   }
+  }
+  coords 4086.507 321.917 11027.207
+  angleY -17.52
+  scale 5
+ }
+ {
+  components {
+   MeshObject "{62ED527C1BA73B13}" {
+    Object "{4C1CEB7D8C9D8A39}Assets/Vehicles/F3_Corvette/F3_Grey.xob"
+    Materials {
+     MaterialAssignClass "{62ED527C062EA73E}" {
+      SourceMaterial "CorvetteF3"
+      AssignedMaterial "{312F652F8CC95EF9}Assets/Vehicles/F3_Corvette/Data/CorvetteF3_Enforcer.emat"
+     }
+    }
+   }
+  }
+  coords 3983.413 747.336 11690.766
+  angleY 177.746
+  scale 20
+ }
+ {
+  components {
+   MeshObject "{62ED527C1BA73B13}" {
+    Object "{4C1CEB7D8C9D8A39}Assets/Vehicles/F3_Corvette/F3_Grey.xob"
+    Materials {
+     MaterialAssignClass "{62ED527C062EA73E}" {
+      SourceMaterial "CorvetteF3"
+      AssignedMaterial "{312F652F8CC95EF9}Assets/Vehicles/F3_Corvette/Data/CorvetteF3_Enforcer.emat"
+     }
+    }
+   }
+  }
+  coords 5369.753 474.883 11213.652
+  angleY 34.53
+  scale 10
+ }
+}
+$grp GenericEntity : "{0364A92598A826F3}Prefabs/Props/Furniture/BenchStadium_01.et" {
+ {
+  coords 4879.373 28.595 11826.891
+  angleY 89.285
+ }
+ {
+  coords 4879.313 28.595 11831.646
+  angleY 89.285
+ }
+ {
+  coords 4879.153 28.595 11844.483
+  angleY 89.285
+ }
+ {
+  coords 4879.093 28.595 11849.24
+  angleY 89.285
+ }
+ {
+  coords 4879.214 28.595 11839.681
+  angleY 89.285
+ }
+ {
+  coords 4879.434 28.595 11822.088
+  angleY 89.285
+ }
+}
+$grp GameEntity : "{0E94F28FD722B1D8}Prefabs/Props/Military/Generators/GeneratorFloodlight_US_01.et" {
+ {
+  coords 4930.311 28.594 11644.4
+  angleY 95.207
+ }
+ {
+  coords 4961.855 28.208 11601.634
+  angleY -108.294
+ }
+ {
+  coords 4940.188 28.208 11609.177
+  angleY 158.521
+ }
+ {
+  coords 4885.331 28.594 11713.455
+  angleY -53.065
+ }
+ {
+  coords 4896.789 28.593 11884.498
+  angleY -139.571
+ }
+ {
+  coords 4897.432 28.593 11786.16
+  angleY -52.763
+ }
+ {
+  coords 4796.769 28.593 11710.942
+  angleY -43.605
+ }
+ {
+  coords 4803.992 27.989 11694.811
+  angleY -90.559
+ }
+ {
+  coords 4909.596 28.593 11835.382
+  angleY -89.249
+ }
+}
+SCR_DestructibleBuildingEntity : "{0F84CBDB6DC72F1B}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Military_Outpost.et" {
+ coords 4909.156 0 11641.473
+ angleY -180
+}
+SCR_DestructibleBuildingEntity : "{181B69BC0F5940B0}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Garage_Military_Base.et" {
+ coords 4818.739 0.742 11706.721
+ angleY -0.462
+ {
+  GenericEntity {
+   ID "625300D9E6BEA315"
+   {
+    GenericEntity {
+     ID "58689E1BBDDF09AD"
+     components {
+      ActionsManagerComponent "{F32B667C3C823800}" {
+       Enabled 0
+      }
+     }
+     {
+      GenericEntity {
+       ID "58689E1B767FC979"
+       components {
+        ActionsManagerComponent "{F32B667C3C823800}" {
+         Enabled 0
+        }
+       }
+      }
+     }
+    }
+    GenericEntity {
+     ID "58689E1BBDDF09CF"
+     components {
+      ActionsManagerComponent "{F32B667C3C823800}" {
+       Enabled 0
+      }
+     }
+    }
+   }
+  }
+  GenericEntity {
+   ID "625300D9E6BEA317"
+   {
+    GenericEntity {
+     ID "58689E1BBDDF09AD"
+     components {
+      ActionsManagerComponent "{F32B667C3C823800}" {
+       Enabled 0
+      }
+     }
+     {
+      GenericEntity {
+       ID "58689E1B767FC979"
+       components {
+        ActionsManagerComponent "{F32B667C3C823800}" {
+         Enabled 0
+        }
+       }
+      }
+     }
+    }
+    GenericEntity {
+     ID "58689E1BBDDF09CF"
+     components {
+      ActionsManagerComponent "{F32B667C3C823800}" {
+       Enabled 0
+      }
+     }
+    }
+   }
+  }
+  GenericEntity {
+   ID "625300D9E6BEA310"
+   {
+    GenericEntity {
+     ID "58689E1BBDDF09AD"
+     components {
+      ActionsManagerComponent "{F32B667C3C823800}" {
+       Enabled 0
+      }
+     }
+     {
+      GenericEntity {
+       ID "58689E1B767FC979"
+       components {
+        ActionsManagerComponent "{F32B667C3C823800}" {
+         Enabled 0
+        }
+       }
+      }
+     }
+    }
+    GenericEntity {
+     ID "58689E1BBDDF09CF"
+     components {
+      ActionsManagerComponent "{F32B667C3C823800}" {
+       Enabled 0
+      }
+     }
+    }
+   }
+  }
+  GenericEntity {
+   ID "625300D9E6BEA30E"
+   {
+    GenericEntity {
+     ID "58689E1BBDDF09AD"
+     components {
+      ActionsManagerComponent "{F32B667C3C823800}" {
+       Enabled 0
+      }
+     }
+     {
+      GenericEntity {
+       ID "58689E1B767FC979"
+       components {
+        ActionsManagerComponent "{F32B667C3C823800}" {
+         Enabled 0
+        }
+       }
+      }
+     }
+    }
+    GenericEntity {
+     ID "58689E1BBDDF09CF"
+     components {
+      ActionsManagerComponent "{F32B667C3C823800}" {
+       Enabled 0
+      }
+     }
+    }
+   }
+  }
+  GenericEntity {
+   ID "625312EF86F2A103"
+   {
+    GenericEntity {
+     ID "611EC77D32FF0709"
+     components {
+      ActionsManagerComponent "{F32B667C3C823800}" {
+       Enabled 0
+      }
+     }
+    }
+   }
+  }
+  GenericEntity {
+   ID "625300D9E6BEA30A"
+   {
+    GenericEntity {
+     ID "5564931ADBF597B6"
+     components {
+      ActionsManagerComponent "{F32B667C3C823800}" {
+       Enabled 0
+      }
+     }
+    }
+   }
+  }
+  GenericEntity {
+   ID "625300D9E6BEBD21"
+   {
+    GenericEntity {
+     ID "5564931ADBF597B6"
+     components {
+      ActionsManagerComponent "{F32B667C3C823800}" {
+       Enabled 0
+      }
+     }
+    }
+   }
+  }
+ }
+}
+SCR_DestructibleBuildingEntity : "{239D94E5633B7560}Prefabs/Structures/Airport/Hangar_Briefing_Big.et" {
+ coords 4883.08 0.236 11917.646
+ angleY -90
+ {
+  $grp GameEntity : "{0E94F28FD722B1D8}Prefabs/Props/Military/Generators/GeneratorFloodlight_US_01.et" {
+   {
+    coords 19.186 0 11.984
+    angleY -143.928
+   }
+   {
+    coords -19.116 0 12.186
+    angleY 125.933
+   }
+  }
+  $grp GenericEntity : "{45FE6E3AD4D384D3}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V1_Enforcers.et" {
+   {
+    coords -21.914 13.09 14.458
+    angleY 90
+   }
+   {
+    coords 21.835 11.667 -14.837
+    angleY 90
+   }
+   {
+    coords 21.835 13.153 14.558
+    angleY 90
+   }
+   {
+    coords -21.914 11.659 -14.938
+    angleY 90
+   }
+  }
+ }
+}
+GenericEntity : "{2B2AA4AD1E2F4F16}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Briefing_Wood.et" {
+ coords 4898.136 28.594 11835.146
+ angleY 90
+}
+$grp GenericEntity : "{3884B81D0BEBEA26}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/CheckPoint1.et" {
+ {
+  coords 4948.224 27.906 11601.086
+  angleY 99.839
+ }
+ {
+  coords 5034.67 31.692 11436.873
+  angleY -103.514
+  {
+   GenericEntity {
+    ID "62AEC081B69583CF"
+    coords 14.247 -1.073 -3.973
+   }
+   GenericEntity {
+    ID "62AEC081B6958DFD"
+    coords 16.347 -1.199 -3.973
+   }
+   GenericEntity {
+    ID "62AEC081B6958DFE"
+    coords 18.436 -1.552 4.597
+   }
+   GenericEntity {
+    ID "62AEC081B695ABA4"
+    coords 18.437 -1.316 -3.973
+   }
+   GenericEntity {
+    ID "62AEC081B695D3A3"
+    coords 14.247 -1.413 4.597
+   }
+   GenericEntity {
+    ID "62AEC081B695D3AD"
+    coords 16.347 -1.485 4.597
+   }
+   GenericEntity {
+    ID "62AEC081B695EA15"
+    coords -15.339 0.764 4.597
+   }
+   GenericEntity {
+    ID "62AEC081B6AA1DC3"
+    coords -8.269 0.579 -2.286
+   }
+   GenericEntity {
+    ID "62AEC081B6AA60A6"
+    coords -8.269 0.506 2.757
+   }
+   GenericEntity {
+    ID "62AEC081B6AA60A7"
+    coords -10.224 0.704 -3.406
+   }
+   GenericEntity {
+    ID "62AEC081B6AA9FF8"
+    coords -19.528 1.084 4.597
+   }
+   GenericEntity {
+    ID "62AEC081B6AB44DA"
+    coords -15.339 1.067 -3.973
+   }
+   GenericEntity {
+    ID "62AEC081B6AB44DB"
+    coords -17.427 1.202 -3.973
+   }
+   GenericEntity {
+    ID "62AEC081B6AB7B68"
+    coords -17.428 0.904 4.597
+   }
+   GenericEntity {
+    ID "62AEC081B6AB7B6F"
+    coords -19.528 1.338 -3.973
+   }
+   GenericEntity {
+    ID "62AEC081B6AB7FDC"
+    coords -10.225 0.428 4.033
+   }
+   GenericEntity {
+    ID "62AEC081B6ABC481"
+    coords 21.749 -1.751 5.889
+   }
+   GenericEntity {
+    ID "62AEC084BECBCE77"
+    coords 20.529 -1.772 7.529
+    angleY 90
+   }
+   GenericEntity {
+    ID "62AEC084BECBCE8F"
+    coords 20.529 -1.683 5.363
+    angleY 90
+   }
+  }
+ }
+}
+$grp GenericEntity : "{45FE6E3AD4D384D3}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V1_Enforcers.et" {
+ {
+  coords 4699.997 30.843 11843.876
+  angleY 90
+ }
+ {
+  coords 4729.125 25.532 11906.916
+  angleY 90
+ }
+ {
+  coords 4832.015 36.414 11698.76
+  angleY 90
+ }
+ {
+  coords 4899.457 29.571 11830.835
+  angleY 90
+ }
+ {
+  coords 4899.434 29.553 11840.065
+  angleY 90
+ }
+ {
+  coords 4899.583 29.586 11835.279
+  angleY 90
+ }
+ {
+  coords 4899.491 28.594 11825.318
+  angleY 90
+ }
+ {
+  coords 4899.542 28.594 11821.734
+  angleY 90
+ }
+ {
+  coords 4900.016 28.594 11845.559
+  angleY 90
+ }
+ {
+  coords 4899.487 28.593 11849.182
+  angleY 90
+ }
+ {
+  coords 4878.057 30.144 11851.142
+  angleY 90
+ }
+ {
+  coords 4878.067 30.148 11847.306
+  angleY 90
+ }
+ {
+  coords 4878.134 30.147 11844.462
+  angleY 90
+ }
+ {
+  coords 4878.259 30.144 11841.604
+  angleY 90
+ }
+ {
+  coords 4878.269 30.148 11837.733
+  angleY 90
+ }
+ {
+  coords 4878.295 30.144 11833.56
+  angleY 90
+ }
+ {
+  coords 4878.325 30.148 11829.686
+  angleY 90
+ }
+ {
+  coords 4878.346 30.116 11826.886
+  angleY 90
+ }
+ {
+  coords 4878.429 30.144 11824.017
+  angleY 90
+ }
+ {
+  coords 4878.46 30.148 11820.136
+  angleY 90
+ }
+ {
+  coords 4869.8 28.594 11839.074
+  angleY 90
+ }
+ {
+  coords 4870.455 28.594 11830.99
+  angleY 90
+ }
+ {
+  coords 4896.417 28.594 11832.712
+  angleY 90
+ }
+ {
+  coords 4896.438 28.594 11838.374
+  angleY 90
+ }
+ {
+  coords 4883.273 28.594 11852.453
+  angleY 90
+ }
+ {
+  coords 4887.621 28.594 11852.396
+  angleY 90
+ }
+ {
+  coords 4893.223 28.595 11852.139
+  angleY 90
+ }
+ {
+  coords 4898.312 28.593 11852.235
+  angleY 90
+ }
+ {
+  coords 4898.312 28.593 11817.236
+  angleY 90
+ }
+ {
+  coords 4883.273 28.594 11817.572
+  angleY 90
+ }
+ {
+  coords 4887.621 28.594 11817.517
+  angleY 90
+ }
+ {
+  coords 4893.223 28.595 11817.14
+  angleY 90
+ }
+ {
+  coords 4866.75 28.594 11835.409
+  angleY 90
+ }
+ {
+  coords 4874.96 28.594 11831.599
+  angleY 90
+ }
+ {
+  coords 4875.053 28.594 11839.104
+  angleY 90
+ }
+}
+GenericEntity : "{5762817612C15920}Prefabs/Compositions/Misc/Briefing_Setup.et" {
+ coords 4885.58 28.83 11917.532
+ angleY 180
+ {
+  GenericEntity {
+   ID "62E6FCF5B0F64878"
+   coords 6.033 0 -0.034
+   angleY -89.978
+  }
+  GenericEntity {
+   ID "62E6FCF5B0F64879"
+   coords 3.869 0 -6.282
+   angleY -46.503
+  }
+  GenericEntity {
+   ID "62E6FCF5B0F6487A"
+   coords 3.908 0 6.062
+   angleY -135.474
+  }
+ }
+}
+$grp GenericEntity : "{68AB20C50AC0DD27}Prefabs/Props/Military/Sandbags/Sandbag_01_wall_solid_burlap.et" {
+ {
+  coords 4739.626 26.001 11922.011
+  angleX -1.714
+ }
+ {
+  coords 4734.938 25.926 11924.763
+  angleX -1.714
+ }
+ {
+  coords 4734.932 26.143 11922.079
+  angleX -1.714
+ }
+ {
+  coords 4739.632 25.686 11924.694
+  angleX -1.714
+ }
+ {
+  coords 4704.045 29.303 11867.841
+  angleX 1.296
+  angleZ 0.3
+ }
+ {
+  coords 4708.971 29.413 11867.84
+  angleX 1.296
+  angleZ 0.3
+ }
+}
+$grp GenericEntity : "{AE5ED5EB144950E6}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/MilitaryBase_Hangar1.et" {
+ {
+  coords 4890.081 28.594 11657.239
+  angleY -90
+ }
+ {
+  coords 4890.081 28.594 11669.153
+  angleY -90
+ }
+}
+SCR_DestructibleBuildingEntity : "{B668684CA41FE0B2}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Hangar_Shed.et" {
+ coords 4819.336 1.046 11677.024
+ angleY 180
+}
+GenericEntity : "{B779C64C2BDC8A34}Prefabs/Weapons/AutoTurrets/AutoTurret_X1_ENFORCERS.et" {
+ components {
+  FactionAffiliationComponent "{62ACAE2F976BB213}" {
+   "faction affiliation" "ENFORCERS"
+  }
+ }
+ coords 4908.627 32.325 11637.928
+ angleY 180
+}
+$grp GenericEntity : "{E098F7BA2E49D9B0}Prefabs/Compositions/Slotted/SlotRoadMedium/Checkpoint_US_M_Tan_01.et" {
+ {
+  coords 4940.616 28.714 11644.468
+  angleY -172.899
+ }
+ {
+  coords 4926.303 28.175 11616.062
+  angleY -151.038
+ }
+}

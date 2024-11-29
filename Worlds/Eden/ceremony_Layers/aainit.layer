@@ -1,0 +1,65 @@
+SCR_AIWorld : "{70CCCF16487C927F}Prefabs/AI/SCR_AIWorld_Eden.et" {
+ coords 4867.498 28.594 11791.168
+}
+SCR_GameModeEditor GameMode_GM_Main1 : "{D2B6E044961A61DD}Prefabs/MP/Modes/GameMode_GM_Main.et" {
+ coords 4853.675 28.594 11780.021
+ {
+  SCR_FactionManager "62F957A821398CAB" {
+   ID "56E685E92F1B7E7A"
+   Factions {
+    SCR_Faction "{60AB36C32D620E8B}" {
+     m_bIsPlayable 0
+     m_bShowInWelcomeScreenIfNonPlayable 0
+    }
+    SCR_Faction "{60AB36C32C2345C0}" {
+     m_bIsPlayable 0
+     m_bShowInWelcomeScreenIfNonPlayable 0
+    }
+   }
+  }
+  SCR_LoadoutManager {
+   ID "56E685E92F1B7E2A"
+   m_aPlayerLoadouts {
+    SCR_FactionPlayerLoadout "{5596D845DBEEF78C}" {
+     m_sLoadoutResource "{3112A5D122BBCD38}Prefabs/Characters/Republic Enforcers/Character_Enforcers_RIfleman_BootCamp.et"
+    }
+    SCR_FactionPlayerLoadout "{62E5333418E10C43}" {
+     m_sLoadoutName "MG Loadout"
+     m_sLoadoutResource "{40AE82D646EDB66D}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Heavy_BootCamp.et"
+    }
+    SCR_FactionPlayerLoadout "{62E533347825F1B9}" {
+     m_sLoadoutName "Marksman Loadout"
+     m_sLoadoutResource "{6CD29A6D59BF9DA9}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Sniper_BootCamp.et"
+    }
+    SCR_FactionPlayerLoadout "{62E73A68FB2D852E}" {
+     m_sLoadoutName "1MB Rifleman"
+     m_sLoadoutResource "{2290061CADB8C4A8}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Rifleman_1MB.et"
+     m_sAffiliatedFaction "ENFORCERS"
+    }
+    SCR_FactionPlayerLoadout "{62E73A6C57EBD072}" {
+     m_sLoadoutName "1MB MG"
+     m_sLoadoutResource "{40AE82D646EDB66E}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Heavy_1MB.et"
+     m_sAffiliatedFaction "ENFORCERS"
+    }
+    SCR_FactionPlayerLoadout "{62F9272BE60FD563}" {
+     m_sLoadoutResource "{BA445BAF934B19F4}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Sniper_1MB.et"
+     m_sAffiliatedFaction "ENFORCERS"
+    }
+   }
+  }
+ }
+}
+GenericEntity : "{3B848E9DED3ADF4F}Prefabs/Compositions/Misc/arsenal=noflag.et" {
+ coords 4883.099 28.83 11937.354
+}
+SCR_SpawnPoint : "{C2489D6C17D1084D}Prefabs/MP/Spawning/SpawnPoint_ENFORCERS.et" {
+ components {
+  SCR_MapDescriptorComponent "{54C659A97C47BDE2}" {
+   DisplayName "Main Base"
+   VisibleOnMap 1
+  }
+ }
+ coords 4871.795 28.594 11835.331
+ angleY 90
+ m_sFaction "ENFORCERS"
+}
