@@ -1,0 +1,12 @@
+GMSafeZones_SafeZoneTriggerEntity : "{2DD9164D7E7D05D0}Prefabs/Systems/SafeZones/SafeZone_Base.et" {
+ ID "5CE4D3698213E85A"
+ components {
+  GMSafeZones_AreaMeshComponent "{5CE4FA9DA2FB08CE}" {
+   m_fRadius 100
+  }
+  SCR_FactionAffiliationComponent "{5CE4D360D9B459CB}" {
+   "faction affiliation" "ENFORCERS"
+  }
+ }
+ coords 4886.84 28.594 11835.178
+}

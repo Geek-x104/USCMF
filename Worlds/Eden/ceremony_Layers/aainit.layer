@@ -59,7 +59,7 @@ SCR_SpawnPoint : "{C2489D6C17D1084D}Prefabs/MP/Spawning/SpawnPoint_ENFORCERS.et"
    VisibleOnMap 1
   }
  }
- coords 4871.795 28.594 11835.331
+ coords 4875.391 28.594 11835.331
  angleY 90
  m_sFaction "ENFORCERS"
 }

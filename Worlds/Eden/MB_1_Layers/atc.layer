@@ -40,11 +40,3 @@ $grp GenericEntity : "{3E4C223A92230572}Prefabs/Props/Military/Sandbags/Sandbag_
   angleY -0.282
  }
 }
-GenericEntity : "{DCFF17B631D1A672}Prefabs/Weapons/AutoTurrets/Light-MissileLauncher_Enforcers.et" {
- components {
-  FactionAffiliationComponent "{62ACAE2F976BB213}" {
-   "faction affiliation" "ENFORCERS"
-  }
- }
- coords 4921.065 48.377 11787.365
-}

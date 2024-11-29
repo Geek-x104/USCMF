@@ -113,15 +113,6 @@ $grp GenericEntity : "{2F9B8A926C704A11}Prefabs/Compositions/Misc/CustomEntities
      angleY -178.573
     }
    }
-   GenericEntity : "{DCFF17B631D1A672}Prefabs/Weapons/AutoTurrets/Light-MissileLauncher_Enforcers.et" {
-    components {
-     FactionAffiliationComponent "{62ACAE2F976BB213}" {
-      "faction affiliation" "ENFORCERS"
-     }
-    }
-    coords 0.23 2.141 4.367
-    angleY 90.07
-   }
   }
  }
  {
@@ -551,10 +542,6 @@ $grp GenericEntity : "{D79FECA12AC8F646}Prefabs/Compositions/Misc/CustomEntities
      coords 4.126 -0.896 -3.985
      angleY 139.86
     }
-   }
-   GenericEntity : "{B89C671B75B43849}Prefabs/Structures/Military/CamoNets/US/CamoNet_Medium_US.et" {
-    coords -0.275 0.989 0.684
-    angleY -3.49
    }
   }
  }
