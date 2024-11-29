@@ -1,0 +1,39 @@
+GenericEntity : "{A1CAA890F38FC41D}Prefabs/Vehicles/Ships/F3_Flying_Armed_CIW.et" {
+ ID "60B3026B24E95D20"
+ components {
+  BON_AutoTurretTargetComponent "{62C90A5032F4B292}" {
+   Enabled 0
+  }
+  BON_SimpleMoveComponent "{60B305087657D025}" {
+   Enabled 0
+  }
+  SCR_DestructionMultiPhaseComponent "{62C93858E4F246E5}" {
+   m_fBaseHealth 500
+  }
+ }
+ coords 4275.386 45.167 9500.599
+ angleY -20.061
+ scale 2.5
+ {
+  ParticleEffectEntity {
+   ID "60B3050A9938A387"
+   PlayInEditor 0
+   PlayOnSpawn 0
+  }
+  ParticleEffectEntity {
+   ID "60B3050A9938C13F"
+   PlayInEditor 0
+   PlayOnSpawn 0
+  }
+  ParticleEffectEntity {
+   ID "60B3050A9FF64A07"
+   PlayInEditor 0
+   PlayOnSpawn 0
+  }
+  ParticleEffectEntity {
+   ID "60B3050A9FF64C47"
+   PlayInEditor 0
+   PlayOnSpawn 0
+  }
+ }
+}

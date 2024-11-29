@@ -1,0 +1,500 @@
+SCR_ChimeraCharacter : "{2C024B8FB15C9B51}Prefabs/Characters/CIW/CIW_Sniper_Elite_01.et" {
+ components {
+  ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+   EnableAI 1
+  }
+ }
+ coords 4519.316 30.209 9534.8
+}
+$grp SCR_ChimeraCharacter : "{2FA9BCC8FF140521}Prefabs/Characters/CIW/CIW_Rifleman_01.et" {
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4510.904 14.749 9422.013
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4524.982 14.749 9418.429
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4538.16 14.576 9471.448
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4531.074 14.434 9461.606
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4532.05 14.501 9474.234
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4536.167 17.999 9492.984
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4530.537 17.999 9493.993
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4539.25 17.999 9487.619
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4529.936 21.301 9490.18
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4532.346 18.44 9535.716
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4511.444 18.113 9535.341
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4526.842 18.25 9522.862
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4437.598 15.144 9568.272
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4417.034 15.144 9572.454
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4428.366 15.144 9568.409
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4435.962 15.144 9566.207
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4608.328 20.65 9515.087
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4580.923 18.661 9541.276
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4579.501 18.661 9534.88
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4577.735 18.161 9527.877
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4511.885 19.937 9663.974
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4509.427 19.937 9659.774
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4506.8 19.937 9666.763
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4503.861 19.937 9661.335
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4501.711 19.938 9669.376
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4290.672 1.177 9559.284
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4307.379 1.177 9572.84
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4255.032 1.197 9530.172
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4226.821 1.247 9477.789
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4305.291 1.207 9475.252
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4326.397 1.125 9501.811
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4326.403 4.155 9500.693
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4320.722 3.697 9546.405
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4294.085 1.125 9548.032
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4276.543 1.125 9551.722
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4509.377 17.58 9584.596
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4514.712 17.58 9589.493
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4525.453 17.945 9587.064
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4540.199 18.688 9585.699
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4528.58 18.036 9605.594
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4542.416 19.497 9610.523
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4555.374 20.218 9620.634
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4552.527 20.193 9598.735
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4474.401 17.628 9458.745
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4475.103 13.828 9454.899
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4467.83 13.828 9457.228
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4479.857 13.828 9458.438
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4575.538 16.332 9386.4
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4574.674 16.332 9390.038
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4585.204 16.345 9387.311
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4578.139 12.722 9391.421
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4578.481 12.722 9385.063
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4585.17 12.722 9385.256
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4573.971 12.722 9388.551
+ }
+}
+$grp SCR_ChimeraCharacter : "{C71266CD8E04F4C0}Prefabs/Characters/CIW/CIW_Heavy_01.et" {
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4528.963 14.749 9422.392
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4539.856 14.714 9459.676
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4523.226 18.151 9560.258
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4424.417 15.144 9565.524
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4575.479 18.681 9546.282
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4232.777 1.182 9511.575
+ }
+ {
+  components {
+   ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+    EnableAI 1
+   }
+  }
+  coords 4579.214 16.332 9385.642
+ }
+}
