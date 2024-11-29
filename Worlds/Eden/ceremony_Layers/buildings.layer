@@ -66,28 +66,40 @@ $grp GenericEntity {
 }
 $grp GenericEntity : "{0364A92598A826F3}Prefabs/Props/Furniture/BenchStadium_01.et" {
  {
-  coords 4879.373 28.595 11826.891
+  coords 4882.969 28.595 11826.891
   angleY 89.285
  }
  {
-  coords 4879.313 28.595 11831.646
+  coords 4882.909 28.595 11831.646
   angleY 89.285
  }
  {
-  coords 4879.153 28.595 11844.483
+  coords 4882.749 28.595 11844.483
   angleY 89.285
  }
  {
-  coords 4879.093 28.595 11849.24
+  coords 4882.689 28.595 11849.24
   angleY 89.285
  }
  {
-  coords 4879.214 28.595 11839.681
+  coords 4882.81 28.595 11839.681
   angleY 89.285
  }
  {
-  coords 4879.434 28.595 11822.088
+  coords 4883.03 28.595 11822.088
   angleY 89.285
+ }
+ {
+  coords 4879.086 28.981 11917.63
+  angleY 90
+ }
+ {
+  coords 4880.077 28.981 11911.74
+  angleY 63.203
+ }
+ {
+  coords 4880.767 28.981 11923.742
+  angleY 123.005
  }
 }
 $grp GameEntity : "{0E94F28FD722B1D8}Prefabs/Props/Military/Generators/GeneratorFloodlight_US_01.et" {
@@ -339,6 +351,17 @@ GenericEntity : "{2B2AA4AD1E2F4F16}Prefabs/Compositions/Misc/CustomEntities/Comp
  coords 4898.136 28.594 11835.146
  angleY 90
 }
+GMSafeZones_SafeZoneTriggerEntity : "{2DD9164D7E7D05D0}Prefabs/Systems/SafeZones/SafeZone_Base.et" {
+ components {
+  GMSafeZones_AreaMeshComponent "{5CE4FA9DA2FB08CE}" {
+   m_fRadius 100
+  }
+  SCR_FactionAffiliationComponent "{5CE4D360D9B459CB}" {
+   "faction affiliation" "ENFORCERS"
+  }
+ }
+ coords 4888.308 28.594 11835.178
+}
 $grp GenericEntity : "{3884B81D0BEBEA26}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/CheckPoint1.et" {
  {
   coords 4948.224 27.906 11601.086
@@ -471,51 +494,51 @@ $grp GenericEntity : "{45FE6E3AD4D384D3}Prefabs/Structures/Military/Flags/FlagPo
   angleY 90
  }
  {
-  coords 4878.057 30.144 11851.142
+  coords 4881.653 30.144 11851.142
   angleY 90
  }
  {
-  coords 4878.067 30.148 11847.306
+  coords 4881.663 30.148 11847.306
   angleY 90
  }
  {
-  coords 4878.134 30.147 11844.462
+  coords 4881.73 30.147 11844.462
   angleY 90
  }
  {
-  coords 4878.259 30.144 11841.604
+  coords 4881.854 30.144 11841.604
   angleY 90
  }
  {
-  coords 4878.269 30.148 11837.733
+  coords 4881.865 30.148 11837.733
   angleY 90
  }
  {
-  coords 4878.295 30.144 11833.56
+  coords 4881.891 30.144 11833.56
   angleY 90
  }
  {
-  coords 4878.325 30.148 11829.686
+  coords 4881.921 30.148 11829.686
   angleY 90
  }
  {
-  coords 4878.346 30.116 11826.886
+  coords 4881.942 30.116 11826.886
   angleY 90
  }
  {
-  coords 4878.429 30.144 11824.017
+  coords 4882.025 30.144 11824.017
   angleY 90
  }
  {
-  coords 4878.46 30.148 11820.136
+  coords 4882.056 30.148 11820.136
   angleY 90
  }
  {
-  coords 4869.8 28.594 11839.074
+  coords 4873.728 28.594 11839.074
   angleY 90
  }
  {
-  coords 4870.455 28.594 11830.99
+  coords 4874.383 28.594 11830.99
   angleY 90
  }
  {
@@ -559,37 +582,16 @@ $grp GenericEntity : "{45FE6E3AD4D384D3}Prefabs/Structures/Military/Flags/FlagPo
   angleY 90
  }
  {
-  coords 4866.75 28.594 11835.409
+  coords 4870.678 28.594 11835.409
   angleY 90
  }
  {
-  coords 4874.96 28.594 11831.599
+  coords 4878.556 28.594 11831.599
   angleY 90
  }
  {
-  coords 4875.053 28.594 11839.104
+  coords 4878.649 28.594 11839.104
   angleY 90
- }
-}
-GenericEntity : "{5762817612C15920}Prefabs/Compositions/Misc/Briefing_Setup.et" {
- coords 4885.58 28.83 11917.532
- angleY 180
- {
-  GenericEntity {
-   ID "62E6FCF5B0F64878"
-   coords 6.033 0 -0.034
-   angleY -89.978
-  }
-  GenericEntity {
-   ID "62E6FCF5B0F64879"
-   coords 3.869 0 -6.282
-   angleY -46.503
-  }
-  GenericEntity {
-   ID "62E6FCF5B0F6487A"
-   coords 3.908 0 6.062
-   angleY -135.474
-  }
  }
 }
 $grp GenericEntity : "{68AB20C50AC0DD27}Prefabs/Props/Military/Sandbags/Sandbag_01_wall_solid_burlap.et" {
@@ -632,15 +634,6 @@ $grp GenericEntity : "{AE5ED5EB144950E6}Prefabs/Compositions/Misc/CustomEntities
 }
 SCR_DestructibleBuildingEntity : "{B668684CA41FE0B2}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Hangar_Shed.et" {
  coords 4819.336 1.046 11677.024
- angleY 180
-}
-GenericEntity : "{B779C64C2BDC8A34}Prefabs/Weapons/AutoTurrets/AutoTurret_X1_ENFORCERS.et" {
- components {
-  FactionAffiliationComponent "{62ACAE2F976BB213}" {
-   "faction affiliation" "ENFORCERS"
-  }
- }
- coords 4908.627 32.325 11637.928
  angleY 180
 }
 $grp GenericEntity : "{E098F7BA2E49D9B0}Prefabs/Compositions/Slotted/SlotRoadMedium/Checkpoint_US_M_Tan_01.et" {
