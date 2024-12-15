@@ -7,7 +7,7 @@ SCR_ChimeraCharacter : "{3DD7C1070C903FCF}Prefabs/Characters/CIW/Character_CIW_S
   MeshObject "{520EA1D2F659C81F}" {
    Object "{1518664F8BEBD9F2}Assets/Characters/Robot/Robot_Body.xob"
    Materials {
-    MaterialAssignClass "{62F965E4EDE3AC5B}" {
+    MaterialAssignClass "{6303005C3C261FE1}" {
      SourceMaterial "Robot"
      AssignedMaterial "{D13CC9E6D86D169F}Assets/Characters/Robot/Data/Robot_Black.emat"
     }
@@ -33,6 +33,9 @@ SCR_ChimeraCharacter : "{3DD7C1070C903FCF}Prefabs/Characters/CIW/Character_CIW_S
     m_Image "{EC9726CD101A677D}Assets/Textures/Characters/RobotHead_Black.edds"
    }
   }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{4D923F10AC342A4E}Prefabs/Weapons/Rifles/VA-4_RedBlaster.et"
+  }
   SCR_CharacterIdentityComponent "{5584CBC63E092DBC}" {
    Override 1
    Identity Identity "{5584CBC6363C648B}" {
@@ -46,7 +49,7 @@ SCR_ChimeraCharacter : "{3DD7C1070C903FCF}Prefabs/Characters/CIW/Character_CIW_S
    InitialInventoryItems {
     ItemsInitConfigurationItem "{609287E1D04A5567}" {
      PrefabsToSpawn {
-      "" "{B200F7DF812AE011}Prefabs/Weapons/Magazines/Magazine_VA-50_Red.et" "{B200F7DF812AE011}Prefabs/Weapons/Magazines/Magazine_VA-50_Red.et" "{B200F7DF812AE011}Prefabs/Weapons/Magazines/Magazine_VA-50_Red.et" "{B200F7DF812AE011}Prefabs/Weapons/Magazines/Magazine_VA-50_Red.et" "{B200F7DF812AE011}Prefabs/Weapons/Magazines/Magazine_VA-50_Red.et" "{B200F7DF812AE011}Prefabs/Weapons/Magazines/Magazine_VA-50_Red.et"
+      "{13772C903CB5E4F7}Prefabs/Items/Equipment/Maps/PaperMap_01_folded.et" "{041306C83CF39FB4}Prefabs/Weapons/Magazines/Magazine_VA4S_Red.et" "{041306C83CF39FB4}Prefabs/Weapons/Magazines/Magazine_VA4S_Red.et" "{041306C83CF39FB4}Prefabs/Weapons/Magazines/Magazine_VA4S_Red.et" "{041306C83CF39FB4}Prefabs/Weapons/Magazines/Magazine_VA4S_Red.et" "{041306C83CF39FB4}Prefabs/Weapons/Magazines/Magazine_VA4S_Red.et" "{041306C83CF39FB4}Prefabs/Weapons/Magazines/Magazine_VA4S_Red.et"
      }
     }
    }

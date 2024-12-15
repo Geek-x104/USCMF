@@ -1,3 +1,6 @@
+GenericEntity : "{3B848E9DED3ADF4F}Prefabs/Compositions/Misc/arsenal=noflag.et" {
+ coords 4883.099 28.83 11937.354
+}
 $grp GenericEntity : "{3E4C223A92230572}Prefabs/Props/Military/Sandbags/Sandbag_01_long_high_base.et" {
  {
   coords 4916.523 48.135 11785.153
@@ -38,5 +41,26 @@ $grp GenericEntity : "{3E4C223A92230572}Prefabs/Props/Military/Sandbags/Sandbag_
  {
   coords 4918.304 48.12 11784.08
   angleY -0.282
+ }
+}
+GenericEntity : "{5762817612C15920}Prefabs/Compositions/Misc/Briefing_Setup.et" {
+ coords 4885.58 28.83 11917.532
+ angleY 180
+ {
+  GenericEntity {
+   ID "62E6FCF5B0F64878"
+   coords 6.033 0 -0.034
+   angleY -89.978
+  }
+  GenericEntity {
+   ID "62E6FCF5B0F64879"
+   coords 3.869 0 -6.282
+   angleY -46.503
+  }
+  GenericEntity {
+   ID "62E6FCF5B0F6487A"
+   coords 3.908 0 6.062
+   angleY -135.474
+  }
  }
 }

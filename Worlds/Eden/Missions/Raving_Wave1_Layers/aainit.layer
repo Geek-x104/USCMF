@@ -4,14 +4,7 @@ SCR_AIWorld : "{70CCCF16487C927F}Prefabs/AI/SCR_AIWorld_Eden.et" {
 SCR_GameModeEditor GameMode_GM_Main1 : "{D2B6E044961A61DD}Prefabs/MP/Modes/GameMode_GM_Main.et" {
  components {
   SCR_InitWeatherComponent "{58DCAB6D83A0CB17}" {
-   m_sInitialStartingWeatherId "Rainy"
-  }
-  SCR_RespawnTimerComponent "{56C2DDA6EE0E4071}" {
-   m_fRespawnTime 0
-  }
-  SCR_TimeAndWeatherHandlerComponent "{62F965E304DAF2E7}" {
-   m_iStartingHours 18
-   m_iStartingMinutes 34
+   m_sInitialStartingWeatherId "Clear"
   }
  }
  coords 4853.675 28.594 11780.021
@@ -63,12 +56,6 @@ SCR_GameModeEditor GameMode_GM_Main1 : "{D2B6E044961A61DD}Prefabs/MP/Modes/GameM
 }
 GenericEntity : "{3B848E9DED3ADF4F}Prefabs/Compositions/Misc/arsenal=noflag.et" {
  coords 4883.099 28.83 11937.354
- {
-  GenericEntity {
-   ID "62EAFE0018A5F184"
-   coords -6.572 0 0
-  }
- }
 }
 GenericEntity : "{5762817612C15920}Prefabs/Compositions/Misc/Briefing_Setup.et" {
  coords 4885.58 28.83 11917.532

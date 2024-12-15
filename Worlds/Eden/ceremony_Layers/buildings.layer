@@ -347,20 +347,14 @@ SCR_DestructibleBuildingEntity : "{239D94E5633B7560}Prefabs/Structures/Airport/H
   }
  }
 }
+GMSafeZones_SafeZoneTriggerEntity : "{298B5EA3F9EA1C34}Prefabs/Safe Zone/SafeZone_Enforcers.et" {
+ coords 4890.355 28.594 11835.299
+ DrawShape 0
+ m_fZoneRadius 50
+}
 GenericEntity : "{2B2AA4AD1E2F4F16}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Briefing_Wood.et" {
  coords 4898.136 28.594 11835.146
  angleY 90
-}
-GMSafeZones_SafeZoneTriggerEntity : "{2DD9164D7E7D05D0}Prefabs/Systems/SafeZones/SafeZone_Base.et" {
- components {
-  GMSafeZones_AreaMeshComponent "{5CE4FA9DA2FB08CE}" {
-   m_fRadius 100
-  }
-  SCR_FactionAffiliationComponent "{5CE4D360D9B459CB}" {
-   "faction affiliation" "ENFORCERS"
-  }
- }
- coords 4888.308 28.594 11835.178
 }
 $grp GenericEntity : "{3884B81D0BEBEA26}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/CheckPoint1.et" {
  {

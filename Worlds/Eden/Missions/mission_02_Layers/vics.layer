@@ -1,0 +1,79 @@
+$grp SCR_BaseTriggerEntity {
+ spawnDropship1 {
+  coords 4873.9 28.594 11800.548
+  angleY 90
+ }
+ spawnDropship2 {
+  coords 4873.9 28.594 11835.293
+  angleY 90
+ }
+ spawnEnforcerVics {
+  coords 4913.195 25.287 11798.846
+  angleY 180
+  userScript "	string dropship = \"{8F89DBB5C174D20D}Prefabs/Vehicles/Ships/Dropship/Dropship_Armed.et\";"\
+  "	string truck = \"{F7C0489B71F73B70}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_Blaster.et\";"\
+  "	IEntity spawnDropship1, spawnDropship2, spawnDropship3, spawnDropship4, spawnDropship5, spawnTruck1, spawnTruck2, spawnTruck3, spawnTruck4, spawnTruck5;"\
+  "	"\
+  "	void spawnthings()"\
+  "	{"\
+  "		spawnDropship1 = GetGame().GetWorld().FindEntityByName(\"spawnDropship1\");"\
+  "		spawnDropship2 = GetGame().GetWorld().FindEntityByName(\"spawnDropship2\");"\
+  "		spawnDropship3 = GetGame().GetWorld().FindEntityByName(\"spawnDropship3\");"\
+  "		spawnDropship4 = GetGame().GetWorld().FindEntityByName(\"spawnDropship4\");"\
+  "		spawnDropship5 = GetGame().GetWorld().FindEntityByName(\"spawnDropship5\");"\
+  "		spawnTruck1 = GetGame().GetWorld().FindEntityByName(\"spawnTruck1\");"\
+  "		spawnTruck2 = GetGame().GetWorld().FindEntityByName(\"spawnTruck2\");"\
+  "		spawnTruck3 = GetGame().GetWorld().FindEntityByName(\"spawnTruck3\");"\
+  "		spawnTruck4 = GetGame().GetWorld().FindEntityByName(\"spawnTruck4\");"\
+  "		spawnTruck5 = GetGame().GetWorld().FindEntityByName(\"spawnTruck5\");"\
+  "		"\
+  "		EntitySpawnParams spawnParams = new EntitySpawnParams();"\
+  "		spawnParams.TransformMode = ETransformMode.WORLD;"\
+  "		"\
+  "		spawnParams.Transform[3] = spawnDropship1.GetOrigin();		"\
+  "		GetGame().SpawnEntityPrefab(Resource.Load(dropship),GetGame().GetWorld(),spawnParams);"\
+  "		spawnParams.Transform[3] = spawnDropship2.GetOrigin();"\
+  "		GetGame().SpawnEntityPrefab(Resource.Load(dropship),GetGame().GetWorld(),spawnParams);"\
+  "		spawnParams.Transform[3] = spawnDropship3.GetOrigin();"\
+  "		GetGame().SpawnEntityPrefab(Resource.Load(dropship),GetGame().GetWorld(),spawnParams);"\
+  "		spawnParams.Transform[3] = spawnDropship4.GetOrigin();"\
+  "		GetGame().SpawnEntityPrefab(Resource.Load(dropship),GetGame().GetWorld(),spawnParams);"\
+  "		spawnParams.Transform[3] = spawnDropship5.GetOrigin();"\
+  "		GetGame().SpawnEntityPrefab(Resource.Load(dropship),GetGame().GetWorld(),spawnParams);"\
+  "		spawnParams.Transform[3] = spawnTruck1.GetOrigin();		"\
+  "		GetGame().SpawnEntityPrefab(Resource.Load(truck),GetGame().GetWorld(),spawnParams);"\
+  "		spawnParams.Transform[3] = spawnTruck2.GetOrigin();"\
+  "		GetGame().SpawnEntityPrefab(Resource.Load(truck),GetGame().GetWorld(),spawnParams);"\
+  "		spawnParams.Transform[3] = spawnTruck3.GetOrigin();"\
+  "		GetGame().SpawnEntityPrefab(Resource.Load(truck),GetGame().GetWorld(),spawnParams);"\
+  "		spawnParams.Transform[3] = spawnTruck4.GetOrigin();"\
+  "		GetGame().SpawnEntityPrefab(Resource.Load(truck),GetGame().GetWorld(),spawnParams);"\
+  "		spawnParams.Transform[3] = spawnTruck5.GetOrigin();"\
+  "		GetGame().SpawnEntityPrefab(Resource.Load(truck),GetGame().GetWorld(),spawnParams);"\
+  "	}"
+  EOnInit ""\
+  "		super.EOnInit(owner);"\
+  "		GetGame().GetCallqueue().CallLater(spawnthings, 3000, false);"\
+  "	"
+ }
+ spawnTruck1 {
+  coords 7416.754 9.688 6741.408
+  angleY -53.526
+ }
+ spawnTruck2 {
+  coords 7420.716 9.688 6746.588
+  angleY -53.526
+ }
+ spawnTruck3 {
+  coords 7424.524 9.688 6751.852
+  angleY -53.526
+ }
+ spawnTruck4 {
+  coords 7428.259 9.678 6757.145
+  angleY -53.526
+ }
+ spawnDropship3 {
+  coords 4873.9 28.594 11870.19
+  angleY 90
+ }
+}

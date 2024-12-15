@@ -1,6 +1,9 @@
 SCR_ChimeraCharacter : "{352C2F987422FA99}Prefabs/Characters/CIW/Character_CIW_Base.et" {
  ID "520EC961A090B1EE"
  components {
+  ChimeraAIControlComponent "{520EA1D2DB109F34}" {
+   EnableAI 1
+  }
   SCR_CharacterDamageManagerComponent "{55872AD7B4E959F2}" {
    "Additional hit zones" {
     SCR_CharacterBloodHitZone Blood {
