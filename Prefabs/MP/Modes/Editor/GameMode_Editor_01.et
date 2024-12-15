@@ -1,48 +1,39 @@
-SCR_AIWorld : "{70CCCF16487C927F}Prefabs/AI/SCR_AIWorld_Eden.et" {
- coords 4867.498 28.594 11791.168
-}
-SCR_GameModeEditor GameMode_Editor_1 : "{FF2119ECD9A270D8}Prefabs/MP/Modes/Editor/GameMode_Editor_01.et" {
- coords 4841.783 28.594 11769.038
+SCR_GameModeEditor : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor/GameMode_Editor_Full.et" {
+ ID "56B2B479C6B96951"
  {
   SCR_LoadoutManager {
    ID "56E685E92F1B7E2A"
    m_aPlayerLoadouts {
-    SCR_FactionPlayerLoadout "{6311468B7E2D8BBB}" {
-     m_sLoadoutName "Boot Camp Rifleman"
+    SCR_FactionPlayerLoadout "{5596D845DBEEF78C}" {
+     m_sLoadoutName "Default Rifleman"
      m_sLoadoutResource "{3112A5D122BBCD38}Prefabs/Characters/Republic Enforcers/Character_Enforcers_RIfleman_BootCamp.et"
-     m_sAffiliatedFaction "ENFORCERS"
     }
-    SCR_FactionPlayerLoadout "{6311468B74C44297}" {
-     m_sLoadoutName "Boot Camp MG"
+    SCR_FactionPlayerLoadout "{6311534C78051157}" {
+     m_sLoadoutName "Default MG"
      m_sLoadoutResource "{40AE82D646EDB66D}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Heavy_BootCamp.et"
      m_sAffiliatedFaction "ENFORCERS"
     }
-    SCR_FactionPlayerLoadout "{6311468B75F30FBB}" {
-     m_sLoadoutName "Boot Camp Marksman"
+    SCR_FactionPlayerLoadout "{6311534C7976B83C}" {
+     m_sLoadoutName "Default Marksman"
      m_sLoadoutResource "{6CD29A6D59BF9DA9}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Sniper_BootCamp.et"
      m_sAffiliatedFaction "ENFORCERS"
     }
-    SCR_FactionPlayerLoadout "{6311468B76F6A772}" {
-     m_sLoadoutName "Instructor Rifleman"
+    SCR_FactionPlayerLoadout "{6311534C7A80B520}" {
+     m_sLoadoutName "1MB Rifleman"
      m_sLoadoutResource "{2290061CADB8C4A8}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Rifleman_1MB.et"
      m_sAffiliatedFaction "ENFORCERS"
     }
-    SCR_FactionPlayerLoadout "{6311468B7636DA2F}" {
-     m_sLoadoutName "Instructor MG"
+    SCR_FactionPlayerLoadout "{6311534C7484A9B4}" {
+     m_sLoadoutName "1MB MG"
      m_sLoadoutResource "{40AE82D646EDB66E}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Heavy_1MB.et"
      m_sAffiliatedFaction "ENFORCERS"
     }
-    SCR_FactionPlayerLoadout "{6311468B777BC2BD}" {
-     m_sLoadoutName "Instructor Marksman"
+    SCR_FactionPlayerLoadout "{6311534C75DF0FA7}" {
+     m_sLoadoutName "1MB Marksman"
      m_sLoadoutResource "{BA445BAF934B19F4}Prefabs/Characters/Republic Enforcers/Character_Enforcers_Sniper_1MB.et"
      m_sAffiliatedFaction "ENFORCERS"
     }
    }
   }
  }
-}
-GMSafeZones_SafeZoneTriggerEntity : "{298B5EA3F9EA1C34}Prefabs/Safe Zone/SafeZone_Enforcers.et" {
- coords 4848.165 28.594 11770.818
- DrawShape 0
- m_fZoneRadius 20
 }

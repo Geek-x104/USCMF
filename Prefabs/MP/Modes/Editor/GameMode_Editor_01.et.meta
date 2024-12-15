@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{9FC5C2A62A9D7828}Prefabs/Weapons/MissileLauncher_Nerfed_CIW.et"
+ Name "{FF2119ECD9A270D8}Prefabs/MP/Modes/Editor/GameMode_Editor_01.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }

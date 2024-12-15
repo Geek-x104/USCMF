@@ -1,5 +1,5 @@
 SCR_SpawnPoint : "{E7F4D5562F48DDE4}Prefabs/MP/Spawning/SpawnPoint_Base.et" {
- coords 4843.416 28.594 11770.319
+ coords 4844.662 28.594 11770.318
  angleY 90
  m_sFaction "ENFORCERS"
  m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
